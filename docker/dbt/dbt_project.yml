@@ -1,0 +1,15 @@
+# ==================
+# Project Details
+# ==================
+name: 'maca'
+version: '1.0.0'
+config-version: 2
+profile: 'maca'
+require-dbt-version: 1.5.0
+
+# ==================
+# File Path Configs
+# ==================
+model-paths: ['models']
+analysis-paths: ['analysis']
+test-paths: ['tests']

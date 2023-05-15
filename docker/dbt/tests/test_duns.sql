@@ -1,0 +1,1 @@
+select * from duns where duns_number is null

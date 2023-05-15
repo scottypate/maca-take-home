@@ -1,0 +1,1001 @@
+account_id,duns_number,company_name,industry,revenue,employee_count,founded_date,address,city,state,country
+1,60-186-5592,Crooks-Cartwright,Retail,570839924.73,1875,11/8/1901,63836 Starling Street,Attard,,Malta
+2,95-641-1552,Schuster and Sons,Technology,238062388.54,2284,1/22/1919,7263 Derek Drive,Nikulino,,Russia
+3,71-012-7914,"Dooley, Auer and Collier",Healthcare,600128427.66,3769,1/16/1906,266 Warrior Lane,Guazacapán,,Guatemala
+4,85-892-4449,Schowalter-Beatty,Healthcare,533203683.38,706,7/25/2000,04 Granby Trail,Moss,01,Norway
+5,72-953-9441,Schmitt and Sons,Healthcare,952297256.29,46,9/21/1940,6 Saint Paul Hill,Shiyuetian,,China
+6,07-897-8081,Friesen-Stracke,Retail,720380816.11,1538,7/30/1925,6 John Wall Plaza,San José,,Costa Rica
+7,53-094-2508,Schroeder LLC,Healthcare,938065993.06,383,9/25/2014,4915 Hintze Terrace,Victoria,,Chile
+8,00-846-7843,Schuppe-Quigley,Retail,898276557.94,2235,3/13/1971,1 Carberry Center,Tallahassee,FL,United States
+9,25-105-0935,Kassulke Inc,Finance,368927896.44,1683,3/16/1961,6495 Starling Junction,Guaymango,,El Salvador
+10,66-749-9237,Olson LLC,Finance,474568172.96,1210,7/16/1980,459 Bellgrove Way,Pingxiang,,China
+11,28-598-7279,Bogisich and Sons,Retail,744272771.6,4493,7/29/1961,6658 Petterle Hill,Soca,,Uruguay
+12,78-416-1140,Senger Inc,Finance,124006940.69,3941,10/18/1958,0606 Loftsgordon Court,Novoselitsa,,Ukraine
+13,61-958-9624,"Miller, Goodwin and Gleichner",Healthcare,783228529.55,290,9/10/2018,6 Bellgrove Lane,Lenghu,,China
+14,65-808-1106,Will LLC,Technology,613575472.79,856,11/26/1973,30902 Springs Park,Yuanlin,,China
+15,00-944-8327,Bechtelar-Ratke,Healthcare,343402308.46,2288,4/15/1955,91514 Reinke Trail,Al Khafsah,,Syria
+16,21-007-0807,Denesik-McKenzie,Technology,765376180.51,4189,9/30/1974,364 Loftsgordon Alley,Pacatuba,,Brazil
+17,81-154-0122,Steuber-Leffler,Healthcare,433198812.28,4778,12/29/1983,6 Ludington Park,Masalovka,,Russia
+18,63-706-3175,Homenick-Kovacek,Healthcare,502588041.05,1858,10/30/1996,5288 Bultman Avenue,Wangjiang,,China
+19,88-043-3795,"Moore, Feeney and Friesen",Finance,564198758.0,398,8/1/1995,8772 Green Ridge Trail,Bāgh-e Maīdān,,Afghanistan
+20,82-577-4880,Rolfson-Hayes,Technology,108703750.1,4288,5/6/2016,2 Red Cloud Circle,Thị Trấn Hát Lót,,Vietnam
+21,13-255-2423,Hartmann-Stiedemann,Technology,587193680.04,418,3/29/1934,405 Sheridan Junction,Nýdek,,Czech Republic
+22,83-176-0213,Ruecker and Sons,Finance,983577185.95,2240,8/30/1937,60 Bonner Avenue,Vlycháda,,Greece
+23,77-589-0338,Will-Vandervort,Technology,865822841.22,2217,5/13/1935,8533 Miller Trail,Ngudu,,Tanzania
+24,29-821-0651,Borer LLC,Healthcare,336846092.11,1135,7/9/1903,780 Sugar Hill,Ban Na,,Thailand
+25,73-933-0504,"Romaguera, Schiller and Zemlak",Healthcare,764722472.7,3229,3/9/1942,399 Blackbird Lane,Piúma,,Brazil
+26,51-922-0131,Marks Inc,Finance,208204601.36,1754,3/1/1912,710 Spohn Drive,Songnim,,North Korea
+27,41-631-9164,"Beahan, Terry and Graham",Healthcare,840729677.69,4445,12/17/2011,481 Saint Paul Circle,Pokrovo-Prigorodnoye,,Russia
+28,43-064-9536,"Fadel, Johnson and Hintz",Retail,14811508.67,2859,2/22/1970,7785 Iowa Avenue,Jingu,,China
+29,07-544-9579,"Bartoletti, Keebler and Rogahn",Finance,824491401.29,2948,6/10/2004,8014 Rowland Lane,Gucheng,,China
+30,23-441-8854,Dickinson and Sons,Retail,227316564.75,940,6/30/1957,9 Waubesa Avenue,Philadelphia,PA,United States
+31,59-988-5033,"Jacobs, Jerde and Fisher",Healthcare,919740627.92,2667,2/23/1949,3 Havey Road,Ngelak,,Indonesia
+32,57-240-5417,Jones Inc,Healthcare,509196892.72,1446,5/14/1950,024 Knutson Park,Haarlem,07,Netherlands
+33,97-942-1062,"O'Keefe, Harris and Ullrich",Retail,707020153.54,4999,4/12/1930,3614 Maywood Court,‘Ajlūn,,Jordan
+34,67-207-5548,Bednar Group,Finance,662411750.1,3283,8/20/1988,450 Di Loreto Lane,Austin,TX,United States
+35,57-405-3157,Corwin LLC,Healthcare,714360967.15,3608,5/12/1999,64841 Meadow Valley Road,Boca de Uchire,,Venezuela
+36,55-472-9816,Hickle Inc,Finance,590773219.46,727,4/18/1940,22 Summer Ridge Parkway,Cicayur,,Indonesia
+37,08-275-1187,"Becker, Flatley and Robel",Technology,320932850.02,3519,10/5/2004,3206 8th Street,Keleng,,Indonesia
+38,68-468-9970,Steuber and Sons,Technology,521413452.65,1499,2/7/1969,7216 Meadow Vale Lane,Sergelen,,Mongolia
+39,40-431-3802,Konopelski and Sons,Healthcare,516766006.15,2454,10/7/1981,982 Garrison Crossing,Pavliš,,Serbia
+40,43-852-9782,Pacocha Group,Finance,573187444.03,2070,5/28/1992,0 Schmedeman Center,Castelo,16,Portugal
+41,89-289-4439,Schmidt-Jerde,Retail,401061076.97,2671,2/3/2018,489 Little Fleur Hill,Åtvidaberg,E,Sweden
+42,77-087-2200,"Nienow, Brakus and Kunde",Healthcare,917538882.11,1895,10/15/1926,766 Monica Crossing,Alaghsas,,Niger
+43,30-011-1945,"Ondricka, Stark and Hauck",Finance,325470982.41,2498,1/9/1978,436 Maywood Way,Huangyang,,China
+44,88-769-6469,Kshlerin Group,Retail,831297891.95,182,5/13/1907,366 Schmedeman Terrace,Mahendranagar,,Nepal
+45,53-774-9344,"Pouros, Abernathy and King",Technology,311812859.71,4682,1/29/1985,0 Talmadge Pass,Altay,,China
+46,47-657-0309,Koepp LLC,Technology,981084973.33,1558,2/10/1935,6 Mandrake Point,Aldeias de Cima,13,Portugal
+47,00-937-8484,Carter Inc,Healthcare,118184672.67,195,5/13/2018,9329 Fisk Avenue,Okrouhlice,,Czech Republic
+48,68-335-1468,"Ritchie, Schultz and Corwin",Finance,759673809.18,4244,5/14/1987,33 Hovde Lane,Karagach,,Russia
+49,74-049-6832,Bashirian Group,Healthcare,156230646.45,2186,4/7/1932,0 Hazelcrest Alley,Tangyin,,China
+50,67-085-3947,Rogahn Group,Technology,879624885.76,3357,1/31/1984,27794 New Castle Way,Selenicë,,Albania
+51,84-493-7122,Leuschke Group,Technology,922136719.61,2529,8/28/1966,334 Fisk Way,Ciherang,,Indonesia
+52,95-693-3087,Hahn and Sons,Finance,160987794.89,757,8/26/1905,50 Leroy Avenue,Zlín,,Czech Republic
+53,85-132-7419,Stracke-Luettgen,Finance,172563295.44,2821,8/1/1935,4 Evergreen Center,San Diego,CA,United States
+54,03-258-7918,"Gottlieb, Wyman and Bergstrom",Finance,824557268.72,4828,4/27/1901,1430 Cardinal Place,North Cowichan,BC,Canada
+55,70-374-9401,"Jenkins, Weimann and Wunsch",Healthcare,442964508.84,867,2/3/1999,63 Norway Maple Junction,Tlumach,,Ukraine
+56,88-062-4111,Bashirian Inc,Finance,778130619.07,2066,8/22/1987,872 Sullivan Court,Smederevo,,Serbia
+57,22-309-9413,"Reichel, Cole and Nitzsche",Technology,270869507.29,4602,5/21/1901,62545 Northwestern Court,Dalongtan,,China
+58,99-998-2117,Jacobi-Sawayn,Technology,510697640.41,4906,9/13/1906,2453 Shoshone Road,Kuytun,,Russia
+59,13-160-3889,Kutch Inc,Retail,991720357.48,4108,6/6/1956,0 Chive Road,Setanggor,,Indonesia
+60,68-308-2442,Koch-Russel,Retail,750566962.24,2945,9/14/1924,0 Judy Point,Castêlo,13,Portugal
+61,46-951-6740,"Kshlerin, Gislason and Murazik",Healthcare,187421237.81,3743,9/19/1920,103 Northport Court,Anáfi,,Greece
+62,72-287-1185,"O'Kon, Padberg and Friesen",Finance,512777212.96,2376,1/7/1980,0 American Ash Hill,Cimanglid,,Indonesia
+63,44-129-3380,"Miller, Wolff and Reichel",Technology,436594604.96,1867,10/17/2011,349 Old Shore Pass,Wuyao,,China
+64,76-422-5094,"Frami, Breitenberg and Kiehn",Finance,481392180.35,4166,3/6/1914,6 Springview Road,Kangding,,China
+65,77-334-4572,"Weissnat, Yundt and Herman",Healthcare,404794207.09,4911,3/11/1961,72 Columbus Road,El Rancho,,Honduras
+66,54-921-6685,Cormier-Upton,Retail,568451495.71,347,10/3/1947,95558 Charing Cross Lane,Sonina,,Poland
+67,60-547-8810,"Oberbrunner, Thompson and Conn",Finance,859907519.64,629,9/16/1993,7 Scoville Avenue,Suicheng,,China
+68,60-882-9479,Bradtke Inc,Technology,720210240.44,4230,7/19/1974,261 Green Road,Pedreira,,Brazil
+69,73-164-9433,Farrell-Jacobs,Healthcare,360101320.36,4124,1/27/1952,55257 Rieder Place,Mafinga,,Tanzania
+70,40-663-9046,"Schaden, Boyle and Greenholt",Finance,346490408.91,2701,3/19/1966,82 Linden Center,Vrangel’,,Russia
+71,09-180-1783,Powlowski-Torp,Finance,216047092.23,3972,12/23/1957,45758 Donald Avenue,Chumikan,,Russia
+72,01-002-9684,Ankunding LLC,Retail,573469195.4,883,6/18/1963,517 Grayhawk Court,Pinoma,,Philippines
+73,73-452-9896,Koelpin and Sons,Finance,147487501.26,4475,6/30/1962,2100 Jenifer Junction,Wangmang,,China
+74,70-137-1164,Swaniawski-Mertz,Healthcare,384666920.43,4808,7/25/1921,87 Thierer Avenue,Sebewe,,Indonesia
+75,90-381-2595,Hansen Group,Retail,361329809.01,748,1/2/1904,27 Granby Way,Anlu,,China
+76,25-533-6132,"Block, Konopelski and Bogisich",Technology,965720665.77,1866,7/20/1934,3 Straubel Street,Kota Bharu,KTN,Malaysia
+77,63-144-2453,"Kerluke, Nitzsche and Paucek",Retail,673393074.12,4071,8/3/1959,3968 Comanche Pass,Maromme,A7,France
+78,32-715-1508,Runolfsdottir Group,Technology,435869687.77,3089,2/9/1930,34402 Ramsey Park,Yangliu,,China
+79,25-237-8451,Rippin Inc,Finance,20201682.36,4764,1/28/1954,35439 7th Circle,Krasnogorskoye,,Russia
+80,93-133-9575,Pouros Group,Finance,774712653.57,2218,12/18/1903,918 Vahlen Crossing,Jobabo,,Cuba
+81,83-086-0581,"Herzog, Tillman and Dach",Technology,937941787.92,251,7/16/1947,34049 Victoria Way,Magallanes,,Philippines
+82,94-973-7755,"Abbott, Skiles and Lueilwitz",Technology,687092041.2,2166,9/5/1930,0400 Hoffman Circle,Kostino,,Russia
+83,00-383-4917,"Mohr, Krajcik and Donnelly",Technology,803582226.78,3564,1/29/2017,71556 Colorado Pass,Hegarmanah,,Indonesia
+84,03-788-6017,Sipes-Flatley,Healthcare,651314326.71,809,9/26/1918,348 Leroy Trail,Kujung,,Indonesia
+85,27-453-4572,O'Hara-Klein,Retail,880891091.35,4886,8/24/1993,61 Stone Corner Drive,Padangbai,,Indonesia
+86,64-192-3329,Lang-Muller,Retail,865394992.75,823,1/5/1982,93089 Bowman Junction,Líbano,,Colombia
+87,87-894-6947,"Kautzer, Tremblay and Rippin",Healthcare,878820121.06,3873,12/10/1976,9694 Gateway Avenue,Dongbian,,China
+88,74-529-4581,Baumbach-Hauck,Healthcare,505974055.45,3289,9/19/2009,94936 Hudson Place,Itaí,,Brazil
+89,34-968-9029,Mertz LLC,Technology,782947161.05,4082,3/1/1934,01165 Little Fleur Park,Vynohradiv,,Ukraine
+90,06-653-2273,"Upton, Keebler and Cummings",Finance,469720030.0,3388,5/15/1968,14 Morningstar Alley,Renyi,,China
+91,05-385-8976,Stanton-Haag,Finance,665297966.46,647,8/22/2001,44555 Southridge Park,Massenya,,Chad
+92,54-036-4439,Paucek-Gleason,Retail,206551386.85,1058,11/30/2003,59 Artisan Circle,Venda Nova,13,Portugal
+93,91-923-3632,"Mertz, Wehner and Kuvalis",Finance,791269912.71,1133,7/31/1967,203 Ryan Pass,Xijiang,,China
+94,82-648-9064,Konopelski-Bartoletti,Finance,87728516.38,911,4/10/1991,556 Ryan Park,Chengzhong,,China
+95,64-736-2435,Jaskolski-Luettgen,Retail,177572610.76,2031,1/12/2012,06336 Forest Pass,Yelizavetinskoye,,Russia
+96,81-643-3054,Skiles Group,Finance,644892280.34,1054,5/20/2002,348 Ronald Regan Terrace,An Nāşirīyah,,Iraq
+97,70-709-1854,Heathcote Group,Retail,892051015.49,1962,7/17/2008,5 Ridgeview Way,Zhuting,,China
+98,51-226-7156,"Fritsch, Hahn and Ernser",Finance,721690071.14,3557,6/1/1950,9 Boyd Center,Vetlanda,F,Sweden
+99,39-160-5715,Anderson-Feeney,Healthcare,295278954.47,601,7/1/1934,61 Commercial Circle,Corralito,,Argentina
+100,95-400-8325,Koss Inc,Retail,464350003.3,379,7/15/1920,80 Eagle Crest Plaza,Chaínça,10,Portugal
+101,92-704-8320,"Barton, Dietrich and Bogan",Technology,892217753.24,1083,10/22/1995,507 Atwood Drive,Agarsin,,China
+102,52-234-3718,Simonis Group,Technology,596266280.99,4214,12/5/1922,8703 Redwing Park,Zgłobień,,Poland
+103,65-684-7027,Heathcote and Sons,Retail,161097338.74,4196,9/17/1919,390 Corscot Plaza,Sanjia,,China
+104,13-062-3309,"Dibbert, Hamill and Goldner",Technology,945724352.49,4090,1/17/1919,8193 Vermont Road,Tân Hòa,,Vietnam
+105,51-172-3790,Greenfelder-Cummerata,Retail,126513099.87,3858,8/25/2002,1 Fallview Plaza,Xinzheng,,China
+106,82-989-7855,Bogan and Sons,Retail,253578962.08,3621,4/28/1936,2953 Spenser Point,Simbal,,Peru
+107,12-438-1931,Langworth-Nicolas,Technology,552333992.43,388,7/10/1986,8411 Merchant Pass,Tumba,,China
+108,20-476-2997,Ratke-Hamill,Healthcare,727462345.83,2746,11/21/1994,9006 Hayes Hill,Romny,,Russia
+109,82-256-2419,Schmitt Inc,Technology,333728530.73,1314,7/2/1960,124 Crowley Point,Oued Lill,,Tunisia
+110,93-184-3347,Schmitt and Sons,Technology,476837924.58,4948,3/28/2019,259 Schmedeman Hill,Amolatar,,Uganda
+111,47-506-8231,Kshlerin Inc,Technology,633476636.37,1955,5/8/1997,14 Mendota Avenue,Lappi,,Finland
+112,92-921-9124,Parker LLC,Retail,845267187.96,4842,10/8/1913,5649 Lakewood Gardens Alley,Berlin,BE,Germany
+113,24-824-6659,Towne-Kreiger,Technology,399360606.08,2490,4/9/2021,21877 Manley Place,Jintan,,China
+114,85-974-0210,Langosh-Tremblay,Finance,834482112.91,3081,8/10/1972,72633 Dixon Circle,Daba,,China
+115,51-254-6435,Stoltenberg LLC,Healthcare,109921750.45,2598,2/12/1904,0838 Aberg Street,Pakel,,Indonesia
+116,14-558-8636,O'Kon-Mann,Finance,921176397.88,4774,7/5/1991,1071 Kingsford Alley,Podebłocie,,Poland
+117,78-817-4602,Ondricka-McClure,Retail,829176386.3,3833,1/19/1993,6066 Helena Plaza,Sade,,Nigeria
+118,27-023-1884,"Kirlin, Ward and Stehr",Healthcare,339572044.8,3275,10/25/1982,48 Rockefeller Junction,Pruzhany,,Belarus
+119,62-910-4374,Kautzer-Rath,Retail,191879841.9,4292,5/26/2006,376 Artisan Point,Pavlovsk,,Russia
+120,47-784-9466,"Auer, Hand and Bartell",Retail,851561554.72,354,9/18/2009,911 Hovde Park,Karmah an Nuzul,,Sudan
+121,41-258-0124,Ward and Sons,Healthcare,741538521.43,681,9/7/1997,7029 New Castle Avenue,Kabongan Kidul,,Indonesia
+122,09-277-3616,Aufderhar and Sons,Retail,954867676.82,1939,9/4/2018,270 Butternut Circle,Horní Libina,,Czech Republic
+123,82-604-8410,"Schmitt, Herzog and Murazik",Finance,323623527.44,1421,1/6/1987,3162 Grasskamp Circle,Askim,O,Sweden
+124,55-750-0636,"Friesen, Lowe and Schowalter",Retail,845163508.5,3869,10/10/1925,863 Ridgeway Avenue,Ait Ali,15,Algeria
+125,79-197-4931,"Marks, Braun and Armstrong",Retail,155082911.41,1258,10/13/1974,8 East Road,Sarae,,Indonesia
+126,49-930-0766,"Homenick, Gorczany and Grant",Retail,476753628.81,1840,5/12/1909,1 Troy Lane,Cerro,,Cuba
+127,39-186-6278,Waelchi Inc,Technology,813786733.79,2243,2/14/1948,8310 Eagle Crest Terrace,Taksimo,,Russia
+128,86-120-5776,Roberts-Blanda,Healthcare,823258942.96,2083,2/2/1977,19158 Kingsford Trail,Ryazanskiy,,Russia
+129,04-107-8446,Mills-Dare,Retail,602328956.03,2956,4/23/1972,62 Ludington Lane,Enschede,15,Netherlands
+130,62-800-9244,"Thompson, Lindgren and Lubowitz",Retail,915829011.81,3745,3/12/1928,089 Fisk Place,Ḩalwān,,Egypt
+131,18-955-5304,Sanford-Thompson,Healthcare,315329522.37,3025,12/14/2012,1 Service Circle,Wadi,,China
+132,77-866-8637,Keebler-Greenfelder,Finance,800426335.6,1311,6/27/1943,8 Raven Avenue,Novoshakhtinsk,,Russia
+133,98-322-0254,Hermiston-Kshlerin,Healthcare,260775344.86,1252,12/22/1987,762 Cody Park,Melaka,MLK,Malaysia
+134,24-373-5178,Sporer Inc,Finance,88964218.0,1105,4/21/1937,14296 Stuart Road,Valença do Piauí,,Brazil
+135,00-651-9335,"Schoen, Jast and Rolfson",Technology,715428234.39,4541,4/2/2000,07 Golf Hill,Matumadua,,Indonesia
+136,69-402-8602,"Hickle, Hickle and Bergnaum",Technology,58317105.34,2652,5/29/1913,0 Katie Place,Jeremoabo,,Brazil
+137,73-653-4115,Stark LLC,Retail,539604597.21,2052,11/22/1985,04 Rockefeller Way,Forssa,,Finland
+138,32-179-0866,Hauck-Effertz,Healthcare,84867770.91,4498,12/30/1943,184 Washington Street,Oslo,03,Norway
+139,64-854-8220,"Gottlieb, Ferry and Wolff",Technology,642504118.92,1256,3/29/1967,3730 Texas Crossing,Paseka,,Czech Republic
+140,68-648-5478,Quigley Group,Finance,400577767.08,1334,5/22/1981,1 Macpherson Pass,Saḩab,,Yemen
+141,39-302-3979,"Swift, Hickle and Kshlerin",Retail,503547292.59,2796,4/10/1997,31 Hanson Park,"Palmas De Gran Canaria, Las",CN,Spain
+142,57-445-5266,"Krajcik, Torp and O'Reilly",Retail,161024051.07,2755,7/8/1905,44001 Annamark Way,Sorochuco,,Peru
+143,74-045-5950,Rippin-Schmidt,Technology,665467627.0,2497,6/25/1937,1 Bellgrove Terrace,Insrom,,Indonesia
+144,76-525-8539,O'Keefe Group,Finance,489834772.45,2348,11/5/2010,88610 Oak Valley Way,Terneuzen,10,Netherlands
+145,87-470-0069,Harber Group,Finance,199833510.82,2512,12/12/1908,35 Memorial Point,Nossa Senhora de Machede,07,Portugal
+146,80-327-2780,"Franecki, Tremblay and Kohler",Finance,653681785.47,2137,6/7/1911,587 Ruskin Park,Kathu,,Thailand
+147,79-322-4123,Hagenes and Sons,Healthcare,395582775.06,4365,3/9/1956,2 Old Shore Terrace,Anastácio,,Brazil
+148,87-412-2625,"Blanda, Heaney and Bayer",Technology,599984657.62,4957,9/30/1972,37990 Westridge Alley,Castanheira,16,Portugal
+149,82-721-6623,Schuster Group,Technology,763969227.6,2973,11/11/1950,9449 Calypso Avenue,Xueshan,,China
+150,49-080-2111,Hermann-Witting,Healthcare,418434831.17,1508,1/13/1965,023 Scoville Point,Río Alejandro,,Panama
+151,34-805-9962,Reichel Group,Finance,271882541.98,1234,1/16/1988,8 Spaight Alley,Ipoh,PRK,Malaysia
+152,15-757-1849,Lynch-Erdman,Finance,627279266.85,3221,7/17/1954,41928 Florence Hill,Renchaoxi,,China
+153,24-074-1123,Metz-Considine,Technology,391558758.51,1333,6/14/1938,51267 Shopko Park,Yokosuka,,Japan
+154,34-195-5930,"Fisher, Leuschke and Stehr",Technology,491403598.82,2648,1/15/1951,6176 Sherman Road,Tynne,,Ukraine
+155,47-447-6075,Schuppe-Jerde,Healthcare,323415039.42,1519,11/26/1979,2060 Schlimgen Parkway,Diwopu,,China
+156,25-287-4277,Harber and Sons,Technology,472016698.87,558,12/15/1982,75431 Rockefeller Terrace,Maninihon,,Philippines
+157,91-388-4387,Denesik-Grimes,Finance,323268598.36,3977,6/16/1938,73 Rigney Parkway,General Conesa,,Argentina
+158,74-606-8821,"Konopelski, Shanahan and Murphy",Finance,930909695.73,4461,8/25/1934,2175 Susan Place,Nandaime,,Nicaragua
+159,29-339-7268,"Bergstrom, Rosenbaum and Murphy",Technology,543725975.17,1027,4/14/1950,647 Goodland Road,Chengbei,,China
+160,64-761-0856,Jerde and Sons,Technology,834546176.07,1110,3/16/1911,099 Crest Line Park,Tajinan,,Indonesia
+161,71-704-0075,"Feeney, Huel and Sauer",Technology,739205960.68,4038,2/7/1995,31578 Kings Way,Ouidah,,Benin
+162,78-296-9041,Reynolds Inc,Retail,591200769.8,625,4/6/1908,08 Dunning Center,Punta Alta,,Argentina
+163,07-194-6754,Emmerich and Sons,Technology,137085201.98,4936,10/21/1984,179 1st Terrace,Stoczek,,Poland
+164,86-107-9503,"Schuppe, Volkman and Strosin",Retail,969760179.79,4212,9/23/1978,807 Carberry Alley,Čapljina,,Bosnia and Herzegovina
+165,15-952-2386,"Parisian, Hintz and Beer",Finance,325186002.68,4612,3/3/1914,366 Summit Junction,Tongzha,,China
+166,48-542-3655,Kuphal Inc,Retail,702069257.11,4995,3/26/1932,220 Eagan Crossing,Hamburg,HH,Germany
+167,24-657-8306,Corkery-Watsica,Technology,955932516.42,1410,2/21/1961,8 Commercial Street,Kedung,,Indonesia
+168,77-377-1678,Auer LLC,Healthcare,453900865.6,1145,8/20/1923,1 Sutteridge Drive,Luanshya,,Zambia
+169,55-009-5454,"Considine, Kohler and Sanford",Technology,596780628.53,788,3/9/1969,5898 Gale Trail,Guali,,China
+170,68-192-9273,Breitenberg Inc,Healthcare,961123519.62,78,1/26/1908,61246 East Avenue,Mocho,,Jamaica
+171,43-138-9035,Bradtke-Smith,Retail,776668225.34,286,4/19/1949,690 Russell Parkway,Kingston,ON,Canada
+172,26-585-6871,"Volkman, Conn and Lindgren",Retail,297275609.74,2519,1/24/1942,5 Sutherland Avenue,Heitan,,China
+173,89-015-3584,Thiel-MacGyver,Finance,507939409.69,3963,11/7/1965,27 Graedel Place,Bal Chirāgh,,Afghanistan
+174,83-265-8699,"West, O'Hara and Powlowski",Finance,651767772.66,3801,6/8/1953,7612 Amoth Drive,Krajan Ngerdani,,Indonesia
+175,98-413-8212,Wilderman Inc,Technology,781521013.81,4330,7/24/1933,0704 Beilfuss Pass,Wakiso,,Uganda
+176,03-246-8138,"Herman, Lang and Douglas",Technology,19877248.7,2389,4/12/1953,4081 Forest Dale Road,Al Qubbah,,Libya
+177,71-795-4841,Kuhic-Erdman,Finance,348726814.79,501,8/21/1900,21828 Browning Center,Guayaquil,,Ecuador
+178,78-210-8248,"Kuvalis, Reichel and Glover",Healthcare,344992577.59,2632,6/5/1999,9 Fieldstone Lane,Perovo,,Russia
+179,14-167-6364,Marquardt-Monahan,Finance,100859772.63,243,6/25/1954,2 Melby Lane,Mhlambanyatsi,,Swaziland
+180,15-149-3006,Maggio-Nolan,Finance,332817438.78,1736,7/21/1996,0119 Florence Point,Ekibastuz,,Kazakhstan
+181,81-353-5393,Jerde-Tromp,Finance,517950460.76,771,5/12/1999,622 Center Circle,Avignon,B8,France
+182,56-914-2901,"Ryan, Price and Cronin",Retail,973663326.39,509,3/2/1961,68629 Randy Road,Caratinga,,Brazil
+183,23-713-8415,"Purdy, Kunze and Grady",Retail,77145258.33,3739,3/6/2017,64 Weeping Birch Crossing,Mengmeng,,China
+184,46-781-1342,Graham and Sons,Technology,198410465.78,2406,10/8/1935,32 Del Sol Crossing,Huiyi,,China
+185,68-174-7256,"Morissette, Price and Bruen",Healthcare,925669374.94,741,2/23/1984,62 Brentwood Parkway,Changpo,,China
+186,99-498-3045,"Huel, Beatty and Shields",Finance,80583867.26,4199,7/13/1953,35 Bunker Hill Junction,Austin,TX,United States
+187,78-497-1345,Windler Inc,Retail,88570066.51,4400,7/8/2007,6 Bay Avenue,Chengnan,,China
+188,13-727-1656,Howe LLC,Technology,174895170.76,3796,1/7/2000,33659 Buell Plaza,Jiuxian,,China
+189,28-857-1928,Morar-Kerluke,Retail,68956226.58,1680,9/11/1928,391 Ridge Oak Street,Madrid,MD,Spain
+190,56-852-1329,Daniel-Koch,Finance,751288117.6,2937,7/5/1947,65 Rutledge Road,Ugljan,,Croatia
+191,44-340-1412,Cormier Group,Finance,400273953.93,4937,5/28/1965,751 Stuart Center,Babica,,Poland
+192,52-730-2848,Walter and Sons,Retail,11337228.18,4847,3/24/1974,73 Esker Plaza,Nubma,,China
+193,74-123-3134,Ferry-Reichert,Retail,104308218.39,754,12/20/1911,785 Chinook Circle,Huaiya,,China
+194,26-889-4951,Gleason LLC,Finance,314387038.74,2488,11/19/1905,8640 Kipling Alley,Trzciana,,Poland
+195,75-488-1045,"Rau, Nienow and Bode",Healthcare,832440641.74,4622,11/5/1998,3 Tennessee Point,Ljukovo,,Serbia
+196,80-527-4291,McDermott-Franecki,Healthcare,125913253.02,2597,3/7/1930,274 Spohn Terrace,Ad Darbāsīyah,,Syria
+197,31-937-9218,"Breitenberg, Goodwin and Sporer",Technology,703857713.53,3644,6/27/1936,78923 Pankratz Terrace,Khāliş,,Iraq
+198,82-229-7656,"Schmidt, Feest and Pagac",Retail,243132222.76,1983,1/12/1974,31 Toban Center,Duncan Town,,Bahamas
+199,80-241-0916,"Champlin, O'Conner and Swaniawski",Healthcare,649966953.5,1877,1/22/1934,425 Redwing Plaza,Donja Brela,,Croatia
+200,79-620-4480,Beatty LLC,Technology,7115974.24,1410,8/2/1958,034 Hermina Drive,Fangfan,,China
+201,83-984-3240,Nolan Group,Finance,348651477.96,1839,8/26/1936,6561 Lotheville Junction,Kadukaung,,Indonesia
+202,11-915-5372,"Fay, Kautzer and Flatley",Technology,825241965.57,1682,7/8/1963,33643 Sachs Drive,Ulbroka,,Latvia
+203,80-821-7424,Boehm-Fay,Finance,438001430.51,4488,3/2/1998,99841 Waywood Circle,Gradishtë,,Albania
+204,37-287-6793,Runolfsdottir LLC,Retail,752307512.31,4048,1/7/1984,167 Colorado Place,Uuemõisa,,Estonia
+205,28-591-1594,Sawayn Group,Retail,891512588.2,2064,2/3/1964,88874 Melby Avenue,Stoczek Łukowski,,Poland
+206,13-923-3730,Haag and Sons,Healthcare,885847096.91,4975,3/8/1951,995 Parkside Trail,Aparecida,,Brazil
+207,88-699-1051,"Brown, Ortiz and Leuschke",Technology,491161456.47,2449,4/27/1999,83 Stuart Center,Seulimeum,,Indonesia
+208,58-315-9007,O'Hara-Raynor,Retail,466153788.72,3666,3/10/1922,88 Gale Crossing,Santa Justina,,Philippines
+209,17-170-2733,Schamberger Group,Retail,565775562.6,4874,8/23/1978,5387 Fieldstone Point,Arão,16,Portugal
+210,63-748-8566,Kris LLC,Healthcare,368205368.65,2977,9/30/1950,1116 Main Plaza,Pepe,,Indonesia
+211,30-545-6159,Swift and Sons,Technology,166852694.99,4014,9/29/1962,48730 Harper Park,Bystré,,Czech Republic
+212,65-781-6099,"Bruen, Turner and Koss",Finance,857521911.49,922,4/26/1953,8974 Bluestem Trail,Belanting,,Indonesia
+213,06-984-7718,"O'Hara, Raynor and Jacobson",Healthcare,333998840.41,2260,2/9/1973,3664 Sage Point,Cipancur,,Indonesia
+214,26-902-4364,Schulist-Kiehn,Finance,312552707.28,4286,6/17/1941,9 Bunker Hill Junction,Fray Bentos,,Uruguay
+215,73-822-3427,"Willms, Schneider and Walsh",Technology,473779612.67,1373,4/1/1928,0 Northport Road,Ropcha,,Ukraine
+216,80-166-1057,McCullough Group,Technology,12441833.02,1686,8/24/1973,079 Merry Center,Chiduo,,China
+217,45-998-3911,"Stiedemann, Abshire and Donnelly",Healthcare,459895471.51,1623,4/25/2000,08585 Esker Lane,Pagsañgahan,,Philippines
+218,28-583-6638,Becker LLC,Retail,435022672.73,1834,12/17/1984,225 Blue Bill Park Circle,Snizhne,,Ukraine
+219,94-566-0514,Kunze-Rath,Finance,926366205.61,357,10/3/1925,113 Ilene Park,Staten Island,NY,United States
+220,47-418-6820,Nikolaus Group,Retail,450808222.07,228,11/7/1973,79 Tennessee Street,Bojen Kulon,,Indonesia
+221,60-677-6789,Terry Inc,Healthcare,656157078.94,2966,7/28/2013,41 Sommers Way,General Lavalle,,Argentina
+222,59-102-6903,Nitzsche Inc,Finance,692979343.95,389,11/2/1949,21 Barnett Place,Muara,,Indonesia
+223,49-675-4153,"Hansen, Harris and McLaughlin",Retail,476005522.46,1866,11/24/2007,375 Sunfield Street,Driyorejo,,Indonesia
+224,93-923-2004,Koss and Sons,Healthcare,30332870.98,3163,9/29/1935,824 Merrick Hill,Derbur,,China
+225,01-301-2725,"Dibbert, Balistreri and Legros",Retail,229226772.19,4662,3/2/1900,388 Columbus Trail,Baton Rouge,LA,United States
+226,52-931-4011,"Keebler, Reichert and Gerlach",Technology,99572640.17,1219,11/27/1971,075 Victoria Circle,Perth,WA,Australia
+227,15-978-3947,Watsica and Sons,Healthcare,9516081.75,3322,5/30/1923,92911 Raven Junction,Šid,,Serbia
+228,28-077-6437,Simonis-Herzog,Healthcare,719356117.33,2291,9/10/1973,0 Blaine Junction,Pervomayskaya,,Russia
+229,87-037-8917,"Weimann, Hoeger and Prohaska",Healthcare,58401707.22,376,12/1/1993,87 Corben Place,Mashi,,Nigeria
+230,70-795-5054,"Shields, Keeling and Schultz",Healthcare,525928898.4,2748,1/29/1912,048 Maryland Avenue,Thị Trấn Nho Quan,,Vietnam
+231,76-186-0973,Bahringer-Simonis,Technology,194455855.71,632,7/7/1991,28300 Cottonwood Circle,Anderstorp,F,Sweden
+232,34-303-9505,Reilly-Kunde,Technology,402512550.91,3023,2/14/1934,813 Derek Junction,Fryčovice,,Czech Republic
+233,49-034-8697,"Collier, Hegmann and Fahey",Retail,159374489.75,1055,12/14/2021,578 Crownhardt Street,Slavyanovo,,Bulgaria
+234,08-229-5092,"Gleichner, Collier and Armstrong",Finance,48188954.62,175,12/18/1922,09 Blackbird Trail,Sardasht,,Iran
+235,56-915-3440,"Graham, Flatley and Carter",Healthcare,835902130.64,3000,7/12/2021,0304 Maple Wood Alley,Adraskan,,Afghanistan
+236,91-599-0001,"Emard, Buckridge and D'Amore",Healthcare,964240797.26,3122,6/28/1927,257 Dryden Parkway,Tres Unidos,,Peru
+237,58-677-8810,Jast-McGlynn,Retail,62508858.03,2872,9/12/1989,6749 Mcbride Crossing,Grenoble,B9,France
+238,70-913-4548,Gerhold Group,Healthcare,981188324.91,101,5/13/2001,25399 Southridge Point,Punggurharjo,,Indonesia
+239,42-973-6029,Thompson LLC,Finance,60976595.17,1669,10/19/2020,971 Welch Avenue,Angasmarca,,Peru
+240,31-649-2269,Bernhard LLC,Retail,80784845.91,154,3/9/1995,91 Prairieview Alley,Sritanjung,,Indonesia
+241,95-672-7506,Vandervort-Gutkowski,Retail,427297901.25,3977,8/4/2006,99170 Grayhawk Lane,Louisville,KY,United States
+242,87-219-4202,"Emard, Leannon and Dietrich",Retail,814257084.44,551,9/22/2002,6316 Cordelia Park,New Brunswick,NJ,United States
+243,32-277-7059,Stroman LLC,Finance,473429115.17,4064,12/30/1926,4079 Superior Avenue,Arendal,09,Norway
+244,81-178-1052,"Welch, Schiller and Bernier",Healthcare,955478266.88,33,5/12/1975,2 Arrowood Drive,Daxi,,China
+245,78-643-1494,O'Reilly and Sons,Finance,168018582.2,907,12/30/1968,627 Kensington Plaza,Yurkivka,,Ukraine
+246,10-179-7012,"Bruen, Satterfield and Hills",Finance,239122787.16,1133,8/31/1965,8309 Canary Center,Limoges,B1,France
+247,83-345-5571,Cassin-Legros,Finance,525980318.84,4206,9/19/2001,31849 Vernon Park,Rendui,,China
+248,02-202-8985,Schiller Group,Technology,88743750.76,3486,12/1/1988,66291 Macpherson Hill,Idenao,,Cameroon
+249,61-737-3271,"Stracke, Moen and Reilly",Retail,996899665.95,4096,3/13/1970,930 Mcguire Terrace,Cosne-Cours-sur-Loire,A1,France
+250,63-695-8579,"Heller, Lockman and Cremin",Technology,51703547.36,1200,2/12/1939,9932 Merry Court,Ereira,14,Portugal
+251,25-649-7009,Wunsch and Sons,Technology,75831405.03,2953,3/27/1936,275 La Follette Parkway,Taipinghu,,China
+252,20-613-7528,"Nader, Sauer and Donnelly",Healthcare,404688343.42,1391,9/15/2001,69421 Ludington Drive,Capacho Nuevo,,Venezuela
+253,79-253-0898,Tillman Inc,Technology,131279390.66,1943,3/6/1906,7532 Superior Way,Coripata,,Bolivia
+254,43-622-3070,Gibson and Sons,Healthcare,112183605.29,2102,7/27/1989,35209 Harbort Drive,Divisoria,,Philippines
+255,49-279-4976,"Glover, Graham and Crooks",Technology,360708490.72,3283,10/13/1907,02039 Sunbrook Circle,Huayuan,,China
+256,02-419-9760,Aufderhar Group,Retail,624928527.48,2451,11/9/1986,52369 David Lane,Podkumskiy,,Russia
+257,61-823-4161,Mraz Inc,Retail,786739612.9,2927,12/31/1973,300 4th Court,San José de Comayagua,,Honduras
+258,33-860-5362,"Jast, Wisozk and Donnelly",Finance,535403595.11,1267,11/19/1988,4 Prairieview Lane,Kępie Żaleszańskie,,Poland
+259,59-947-4931,Von LLC,Technology,622654682.8,3608,4/7/1928,57249 Kenwood Place,San Diego,CA,United States
+260,58-834-9064,King Inc,Healthcare,168407484.52,412,3/17/1954,1 Graceland Lane,Shanghu,,China
+261,08-015-9677,Heathcote-Hamill,Healthcare,657806550.6,2011,3/5/2002,11 Kropf Pass,Chengdong,,China
+262,70-925-7871,"Heathcote, Buckridge and Von",Healthcare,70260169.17,4758,2/29/1932,6 Merrick Road,Larkird,,Afghanistan
+263,43-201-5779,Marks-Hansen,Healthcare,142798218.98,4786,3/17/1951,81 Northport Avenue,Wenfeng Zhen,,China
+264,56-267-3938,Wolff Group,Finance,597935209.14,1726,7/1/1943,1642 Esch Pass,Qal‘ah-ye Kuhnah,,Afghanistan
+265,71-533-1631,"Kulas, Yundt and Cruickshank",Finance,161396669.08,2768,9/17/1989,9 Mayer Crossing,Muarasiau,,Indonesia
+266,65-144-0381,Nader-Shields,Finance,813735082.79,2289,3/14/1976,993 Heath Crossing,Shanmei,,China
+267,33-930-0504,Purdy LLC,Finance,100929967.78,151,2/2/2015,80149 Nova Terrace,Li’an,,China
+268,92-796-8491,"Howe, Jerde and Haley",Finance,162612788.89,3833,2/8/1979,3236 Vahlen Street,Mufushan,,China
+269,87-669-2459,Harber-Greenfelder,Retail,610202024.4,2256,7/27/2008,88598 Goodland Terrace,Chisht-e Sharīf,,Afghanistan
+270,09-960-2799,Little-Johnston,Healthcare,588851111.04,3116,9/25/1945,751 Ronald Regan Terrace,Cabucgayan,,Philippines
+271,30-973-2328,Runte-Lockman,Finance,478523639.5,1159,12/3/1946,6 3rd Lane,Tajumulco,,Guatemala
+272,67-167-1256,Kuhn-Stracke,Technology,442960993.91,92,12/22/1941,691 Eggendart Crossing,Tulsa,OK,United States
+273,16-117-9453,Towne Inc,Finance,749792457.07,2265,5/9/1910,747 Annamark Junction,Zhourui,,China
+274,65-411-0784,Collins-O'Hara,Healthcare,728381946.05,130,7/19/1972,68 Golden Leaf Park,Leleque,,Argentina
+275,06-125-1258,Marks LLC,Retail,873826121.25,1832,6/13/1977,31 Grasskamp Lane,Pereyaslav-Khmel’nyts’kyy,,Ukraine
+276,16-313-2334,McGlynn and Sons,Finance,435625473.42,1751,7/4/1960,98 Crowley Drive,Chaykovskaya,,Russia
+277,83-946-4935,Schuppe Inc,Technology,625664797.12,2611,4/18/1969,72041 Tony Hill,Kiritsy,,Russia
+278,17-808-9504,Pacocha and Sons,Retail,199445759.06,4524,6/10/1930,4 Nancy Terrace,Risaralda,,Colombia
+279,87-596-5115,Berge-Feest,Healthcare,604131381.82,1649,12/12/1955,7827 Arizona Pass,Bozkow,,Poland
+280,22-221-6607,Sanford-Erdman,Healthcare,401168620.91,2593,5/2/2016,58441 International Junction,Zhuxi,,China
+281,64-137-1555,Miller LLC,Retail,149691163.9,574,5/9/1947,12 Evergreen Hill,Biritiba Mirim,,Brazil
+282,94-733-8767,Von-Cormier,Retail,977865011.14,4150,10/3/1929,813 Hoffman Alley,Florianópolis,,Brazil
+283,90-840-0089,"Johnston, Wolff and Rohan",Technology,415379282.49,4275,2/24/2010,4040 Banding Trail,Vagos,01,Portugal
+284,39-064-3197,"Lehner, Jerde and Pouros",Healthcare,27206873.62,2288,5/6/1923,1 Jana Alley,Kandahār,,Afghanistan
+285,29-809-3854,"Mayert, Metz and Frami",Retail,914495956.53,861,5/30/2020,188 Buena Vista Terrace,Taraju,,Indonesia
+286,77-284-1656,Gutmann Inc,Retail,407235159.02,4368,6/7/1904,370 Mayfield Court,Lesogorsk,,Russia
+287,10-922-7695,Heathcote-Tillman,Finance,295443926.32,3035,11/14/1927,3 Hovde Trail,Zaprudnya,,Russia
+288,96-430-6919,Rutherford LLC,Retail,378921329.31,4638,5/3/2016,59 Coleman Plaza,Elías,,Colombia
+289,38-523-9997,Hoppe and Sons,Retail,119276436.12,3877,1/11/1965,70363 Alpine Terrace,Gazojak,,Turkmenistan
+290,09-908-2627,Upton-Kilback,Retail,398301900.63,4849,11/23/1992,36362 Towne Drive,Plátanos,,Greece
+291,43-233-8950,Effertz and Sons,Finance,38795629.55,3676,3/5/1933,828 Mockingbird Terrace,Francisco J Mujica,MIC,Mexico
+292,02-003-1798,"Kiehn, Carter and Christiansen",Retail,258120766.41,700,7/31/1988,8 Sunnyside Road,Markušica,,Croatia
+293,67-575-5491,Greenfelder and Sons,Technology,307886671.5,790,12/9/1930,52947 Pennsylvania Avenue,Dabai,,Nigeria
+294,22-050-4798,"Donnelly, Lehner and Braun",Finance,856840740.16,2593,7/19/1911,67 Merry Hill,Colorado Springs,CO,United States
+295,82-299-8388,Legros-Rice,Retail,194941016.59,224,11/16/1910,3 Hauk Circle,Viejo Daan Banua,,Philippines
+296,15-157-8441,Barton-Kozey,Healthcare,401346764.01,2105,12/10/1909,09766 Rieder Circle,Zarya,,Ukraine
+297,39-741-9536,"Beatty, Zieme and Reilly",Finance,465052011.48,4075,4/5/1993,9014 Jackson Place,Menghai,,China
+298,57-765-7045,Erdman-Erdman,Technology,941471213.55,597,6/1/1917,3 Charing Cross Place,Flin Flon,MB,Canada
+299,54-075-1276,"Turcotte, Crooks and Bode",Healthcare,763821872.17,3262,10/21/1992,36365 Fairview Road,Pallasca,,Peru
+300,21-349-4502,Gorczany-Considine,Finance,765843330.9,3976,4/1/1907,8188 Birchwood Lane,Antopal’,,Belarus
+301,03-018-7572,Bartoletti Group,Technology,944639579.5,920,10/1/1970,291 Mendota Alley,Zhukovka,,Russia
+302,85-165-7940,Sporer LLC,Healthcare,286312046.02,1050,6/4/1930,1622 Buell Point,Anticala,,Philippines
+303,21-207-5361,Raynor-Ferry,Technology,174290985.37,1095,12/14/2006,5 Melrose Junction,Tshela,,Democratic Republic of the Congo
+304,13-221-3295,"Graham, Ebert and Yundt",Finance,821606268.6,1144,11/10/1979,9675 Green Terrace,Fort Smith,NT,Canada
+305,01-308-7507,Altenwerth and Sons,Finance,6830121.41,265,12/23/1905,413 Sycamore Terrace,Ciudad Bolivia,,Venezuela
+306,11-089-8184,Senger LLC,Retail,899177307.17,1563,7/16/1950,9369 American Terrace,Shūsh,,Iran
+307,91-971-2329,"Stark, Hudson and Swift",Healthcare,827559980.61,4973,8/23/1927,25 Red Cloud Trail,Cabean,,Indonesia
+308,41-031-6613,Larson Group,Finance,878712424.37,4885,1/23/1976,0205 Northport Avenue,Mtsensk,,Russia
+309,82-461-7841,Kuphal-Wisozk,Retail,224951027.52,2390,4/12/1980,65 Rieder Crossing,Linxi,,China
+310,87-993-3775,"Gutkowski, Rutherford and Ruecker",Technology,333276670.74,2616,8/20/1990,785 Corry Park,Stockholm,AB,Sweden
+311,76-778-9930,Hills-Emmerich,Retail,306712769.91,3935,4/30/1945,484 Blaine Court,Fahraj,,Iran
+312,88-965-4774,"Bernhard, Schultz and Okuneva",Finance,72400580.2,3367,12/16/1989,8469 Dennis Drive,Otaslavice,,Czech Republic
+313,24-894-3259,"Champlin, Kub and Corwin",Healthcare,595126710.3,3242,1/5/1923,324 Duke Road,Gayabaru,,Indonesia
+314,02-483-2528,McLaughlin LLC,Technology,768841478.16,1695,9/11/1933,48 Southridge Terrace,Raga,,South Sudan
+315,18-673-4793,Kuphal LLC,Healthcare,215882659.74,2192,2/16/1997,22675 Waywood Place,Chenjiaba,,China
+316,45-810-0463,"Hamill, Veum and Howell",Retail,268767197.62,3731,4/19/1943,0 Sutteridge Alley,Vischongo,,Peru
+317,86-006-1725,"Wilkinson, Davis and Abbott",Retail,433219346.25,3774,5/4/1905,94 Scott Parkway,Mulhouse,C1,France
+318,98-366-3384,Morar Group,Finance,376259710.46,4580,10/12/1933,7935 Kim Street,Nizhniy Lomov,,Russia
+319,98-383-2629,"Nicolas, Roberts and Stoltenberg",Retail,824880947.99,1553,1/27/2009,1 Waubesa Hill,Clarines,,Venezuela
+320,47-714-9933,Glover-McClure,Technology,366981419.1,2178,3/26/1971,9771 Sachs Park,Chengbei,,China
+321,93-738-4501,"Schoen, Jacobi and Wisozk",Retail,233774013.25,1942,6/7/2002,913 Dawn Avenue,Cipicung Timur,,Indonesia
+322,98-810-5541,"Huels, Carter and Morar",Finance,608550555.42,4353,5/31/1913,95 Southridge Circle,Bang Khon Thi,,Thailand
+323,61-844-1058,"Lueilwitz, Volkman and Paucek",Healthcare,909415061.02,2403,7/7/1967,54971 Bowman Park,Oxford,NS,Canada
+324,37-766-8690,Kunze LLC,Finance,595234525.65,4560,3/2/1939,92936 Buell Trail,Bambanglipuro,,Indonesia
+325,21-073-3152,Olson LLC,Retail,573449324.76,1803,9/4/2000,96727 Shelley Trail,Petaling Jaya,SGR,Malaysia
+326,29-837-7435,"Goodwin, Kovacek and Brekke",Retail,255097050.0,3174,4/13/1945,900 Vermont Parkway,Yongchuan,,China
+327,24-439-9397,Sauer-Brekke,Technology,539374458.61,2845,11/24/1995,9 Victoria Street,Arcos,18,Portugal
+328,92-052-3830,"Purdy, Morar and Abernathy",Technology,738085689.36,3747,9/10/1928,3452 Upham Avenue,Porsgrunn,08,Norway
+329,87-871-2031,Schmitt-Hand,Healthcare,33971478.05,1904,2/21/1956,50650 Center Crossing,Gongji,,China
+330,56-499-3755,"Klocko, Daniel and Skiles",Retail,11631399.71,3664,9/6/1950,71 Corry Parkway,São João de Meriti,,Brazil
+331,32-534-5534,"Muller, Friesen and Rippin",Technology,777625673.85,3539,1/20/1927,4 Steensland Avenue,Sigiriya,,Sri Lanka
+332,09-610-8786,"Gibson, Swift and Ruecker",Finance,747988842.77,1844,4/25/1900,92 Swallow Court,Taocun,,China
+333,59-058-5155,"Kub, Olson and Nolan",Healthcare,143146575.2,2539,12/6/1922,47463 Portage Trail,Huangcun,,China
+334,50-755-9378,"Kub, Shanahan and Koch",Healthcare,286209180.24,4695,4/16/1981,77580 Hoard Alley,Komyshuvakha,,Ukraine
+335,52-740-1340,Hirthe-Collier,Healthcare,295856069.34,2014,2/1/1948,78783 Reindahl Center,Bromma,AB,Sweden
+336,27-294-8757,Schamberger Group,Technology,895686085.3,1147,1/1/1977,81774 Knutson Circle,Sulūq,,Libya
+337,86-619-3431,"Shanahan, Barrows and Graham",Healthcare,151166705.84,2974,1/17/1928,8 Canary Circle,Xianxiang,,China
+338,25-922-3232,West-Fisher,Technology,801890349.7,1947,12/11/1918,88 Darwin Avenue,Divnoye,,Russia
+339,23-807-0539,Johns Group,Healthcare,902301675.2,2638,12/4/1969,18 Manley Terrace,Ngora,,Uganda
+340,42-785-1530,"Schoen, Wuckert and Kunze",Healthcare,903529302.66,3634,8/23/1973,5747 John Wall Parkway,Huangrangping,,China
+341,94-512-9451,"Parisian, Mante and Cruickshank",Healthcare,103709092.53,1847,2/12/1903,94 Blackbird Avenue,Garbów,,Poland
+342,29-939-0768,"Franecki, Wolff and Rice",Finance,99146818.67,1365,5/25/1954,48428 Tennessee Street,Verkhniy Lomov,,Russia
+343,49-617-1798,Casper-Funk,Healthcare,700918489.74,1286,11/30/2001,95050 Dovetail Court,Kotauneng,,Indonesia
+344,06-594-4042,Oberbrunner LLC,Healthcare,312216992.02,1868,7/15/2015,04947 John Wall Circle,Minh Long,,Vietnam
+345,14-924-0109,"Torphy, Gutkowski and Satterfield",Healthcare,756364234.39,3995,10/1/1904,02 Anniversary Way,Pereval'noe,,Ukraine
+346,68-997-7014,Wehner-Marks,Healthcare,656973442.67,686,3/8/1970,9 Memorial Hill,Stará Huť,,Czech Republic
+347,30-570-2401,Bartoletti Inc,Finance,940490259.26,3253,10/18/1938,34507 Dottie Hill,Zbąszynek,,Poland
+348,18-114-0071,Cummerata-Daniel,Retail,147729698.69,570,4/4/1940,820 Kipling Plaza,Longlou,,China
+349,99-310-6537,Parker Inc,Retail,3188336.6,2089,11/21/1983,55554 5th Drive,Wang Thonglang,,Thailand
+350,95-054-1410,"Stanton, Brakus and Lockman",Healthcare,894002881.67,3635,2/19/1904,2103 Stang Avenue,El Paso,TX,United States
+351,20-307-9645,Schmitt-Effertz,Retail,132127554.24,672,3/7/1922,33 Green Ridge Drive,Siborong-borong,,Indonesia
+352,70-497-8968,Gulgowski LLC,Retail,462946024.02,796,9/20/1933,56612 Stone Corner Street,Mliwang,,Indonesia
+353,21-411-5962,"Baumbach, Grady and Jast",Healthcare,247350496.49,2477,9/20/1994,81488 Lakewood Gardens Alley,Cengang,,China
+354,02-737-9852,Smith Inc,Healthcare,619989385.41,4184,5/12/1903,7 Sheridan Junction,Vendargues,A9,France
+355,98-259-4359,"Bashirian, Deckow and Considine",Retail,178742074.04,4527,10/30/1900,97 Havey Terrace,Konotop,,Ukraine
+356,79-197-8270,Lakin and Sons,Finance,137923256.56,4265,6/29/1953,3801 Saint Paul Court,El Chol,,Guatemala
+357,49-970-3720,Daugherty-Welch,Finance,328067390.73,3409,4/20/1990,678 Anderson Park,Otoka,,Bosnia and Herzegovina
+358,21-043-7415,Borer-Zboncak,Finance,698119240.99,2529,6/20/1984,05 Manufacturers Court,Gostagayevskaya,,Russia
+359,38-271-6718,"Kulas, Dibbert and Gusikowski",Healthcare,737288898.14,2712,12/16/1993,74 Buhler Trail,Hexi,,China
+360,40-322-8105,"Ernser, Von and Boehm",Finance,772228044.98,3739,4/22/1912,8378 Ludington Way,Kemendung,,Indonesia
+361,06-360-8871,Nitzsche and Sons,Finance,418628421.37,4927,5/24/1964,05270 Katie Street,Stockholm,AB,Sweden
+362,79-407-4294,Turner and Sons,Finance,166785474.18,4089,4/15/2010,35425 Pearson Hill,Hehe,,China
+363,18-064-4520,Jakubowski-Heaney,Retail,216979966.26,4694,11/14/1956,5154 Spaight Avenue,Bonavista,NL,Canada
+364,30-280-5679,Trantow-Bailey,Healthcare,150279167.5,4501,1/16/1959,05864 Sutherland Way,Zhongxinqiao,,China
+365,81-316-6087,"Simonis, Deckow and Kuhic",Finance,273914904.84,4860,10/4/1957,832 Kingsford Alley,Liuli,,Tanzania
+366,90-800-6429,Prohaska Inc,Technology,621334296.84,3215,4/8/1957,096 Carioca Road,Dal’nerechensk,,Russia
+367,93-506-7348,"Barrows, Conn and Donnelly",Healthcare,482774948.16,4395,10/30/1998,7 Bartelt Street,Kuantan,PHG,Malaysia
+368,70-633-9114,Botsford-Bashirian,Retail,763807591.67,2332,10/28/1956,7063 Valley Edge Way,Boljoon,,Philippines
+369,37-712-3767,"Heaney, Crooks and Fadel",Finance,352293589.78,3873,11/7/1923,786 7th Avenue,Jesús María,,Argentina
+370,14-108-0490,West and Sons,Healthcare,588076025.79,3263,3/29/2013,4 Harper Crossing,Hitachi-Naka,,Japan
+371,37-138-9229,Mraz LLC,Healthcare,395037389.72,938,7/26/2008,7628 Bluejay Pass,Sihai,,China
+372,66-122-9714,"Hettinger, Runolfsson and Moore",Retail,637837883.68,4877,5/19/2019,111 Sundown Plaza,Freire,,Chile
+373,99-266-6157,Beatty-Miller,Technology,602519628.9,2984,3/24/1982,96502 Little Fleur Point,Bandundu,,Democratic Republic of the Congo
+374,48-471-5843,Ernser-Hackett,Technology,432879160.79,3998,10/22/1995,0680 Sunfield Place,Yugang,,China
+375,15-307-5586,Collins-Krajcik,Healthcare,152468487.95,2082,6/29/1999,7505 Coleman Street,Muramvya,,Burundi
+376,98-745-1235,"Schultz, Dach and Carter",Healthcare,968475019.73,2908,1/23/2001,8982 Heath Junction,Aqqan,,China
+377,64-222-8291,"Conn, Lebsack and Volkman",Retail,325014659.59,4167,11/27/2015,7 Magdeline Terrace,Neiba,,Dominican Republic
+378,20-139-8166,Yost-Bauch,Technology,504543934.43,4096,1/23/1909,58 Clyde Gallagher Way,Tingloy,,Philippines
+379,37-053-1654,Hammes-Berge,Healthcare,790319308.67,2315,12/2/1943,19794 Jenna Junction,Rozvadov,,Ukraine
+380,54-722-6731,Schultz and Sons,Retail,197488588.81,920,4/10/1912,20765 Sutherland Road,Maythalūn,,Palestinian Territory
+381,85-285-2868,"Goyette, Rohan and Lehner",Healthcare,774482537.44,2482,11/26/1979,17214 Rusk Road,Cedry Wielkie,,Poland
+382,59-865-4196,Treutel Inc,Technology,654217225.22,1487,12/24/2014,9199 Fallview Junction,Shuangxing,,China
+383,95-932-0695,Hirthe LLC,Retail,846251577.89,4511,9/12/1925,764 Shelley Point,Dolati,,China
+384,40-480-1333,"Brown, Willms and Wisozk",Finance,276098250.36,493,7/11/1951,836 Mifflin Terrace,Yartsevo,,Russia
+385,90-317-5288,"Rodriguez, Dooley and Orn",Healthcare,793389652.02,3186,9/30/1977,381 Mayfield Place,Västanfjärd,,Finland
+386,09-978-1890,Jerde Inc,Technology,573379323.05,326,7/28/2010,8515 Superior Junction,Pampas,,Peru
+387,32-324-3241,Balistreri Group,Retail,956735665.47,946,11/26/2001,9 Fallview Crossing,Novopavlovsk,,Russia
+388,80-390-4628,"Padberg, Upton and Rogahn",Technology,635424913.75,1378,7/12/1910,3117 Beilfuss Parkway,Lebedyn,,Ukraine
+389,72-170-7441,"Pouros, Labadie and Lemke",Retail,6481274.1,1965,4/4/1960,0 Birchwood Alley,Gaotai,,China
+390,63-647-5805,Sporer and Sons,Technology,977922728.77,88,12/13/1935,44 Jenna Drive,Tekik Wetan,,Indonesia
+391,89-431-9216,Haley Group,Technology,404525200.54,3483,9/7/1964,144 Rieder Parkway,Markaryd,G,Sweden
+392,51-617-7891,"Cronin, Dach and Emard",Finance,301046741.55,1311,4/8/2007,11902 Kings Terrace,Mahdia,,Guyana
+393,04-451-2560,"Gislason, Hilpert and Fay",Retail,439558046.6,2583,12/15/1969,25 Linden Drive,Farīdpur,,Bangladesh
+394,22-991-7430,"Herman, Sawayn and Quitzon",Technology,919130425.23,2815,8/18/2014,8489 Village Street,Teno,,Chile
+395,28-618-8058,"Goodwin, Bergnaum and Blick",Technology,79787957.19,1216,9/30/2007,17 Montana Court,Berdorf,,Luxembourg
+396,76-409-9954,Skiles Inc,Finance,363265923.81,24,10/6/2002,978 Hermina Circle,Grosuplje,,Slovenia
+397,41-207-6974,Sauer LLC,Healthcare,972975987.0,4645,11/5/1962,7366 Meadow Valley Road,Kresek,,Indonesia
+398,23-746-7491,Veum-Ward,Technology,514651840.23,143,8/6/1913,29 Center Center,Xianren,,China
+399,11-769-4364,Champlin and Sons,Finance,31398107.92,4599,12/26/1995,3158 Buhler Hill,Mikró Monastíri,,Greece
+400,80-646-2338,"McClure, McCullough and Will",Retail,300865235.16,4683,3/15/1988,3349 Pond Trail,Bauan,,Philippines
+401,90-411-7773,Strosin-Block,Technology,471126082.08,3401,9/29/1956,278 Comanche Terrace,Krajan Dua Putukrejo,,Indonesia
+402,18-812-2992,Lynch-Dibbert,Retail,774083012.71,1478,1/30/2013,42494 Barnett Place,Trondheim,16,Norway
+403,49-548-3269,Prosacco and Sons,Technology,727355561.87,4113,12/28/1900,224 Roxbury Road,Chonghe,,China
+404,44-603-8576,Frami-Christiansen,Healthcare,495886972.29,4129,10/6/2013,986 Corscot Street,Krajan Dukuhseti,,Indonesia
+405,66-571-0843,Schneider and Sons,Healthcare,290681614.42,3202,5/10/1927,600 Spohn Point,Arendal,09,Norway
+406,96-986-4700,Douglas and Sons,Healthcare,511981585.01,1990,12/16/2016,37 Harper Court,Naka,,Japan
+407,98-317-7245,"Waters, Kassulke and Sanford",Finance,379072979.03,1727,6/5/1945,65468 Jenna Road,Třešť,,Czech Republic
+408,00-707-3701,Kling-Schumm,Technology,577491967.18,4068,11/2/1999,48883 Clove Avenue,Chenfang,,China
+409,90-489-6610,"Fritsch, Kuphal and Lindgren",Technology,233705854.65,1056,7/15/1957,9 Fair Oaks Alley,Bystryanka,,Russia
+410,13-987-1891,Homenick-Cole,Technology,487804623.81,3242,2/16/1988,47 Waubesa Place,Detroit,MI,United States
+411,25-247-4780,Mohr-Schoen,Finance,892913112.98,3805,7/11/1929,4642 Melrose Street,Aguisan,,Philippines
+412,38-270-2814,"Wilkinson, Ziemann and Fadel",Retail,838729408.01,3905,12/8/1982,19069 Larry Alley,Lizhuang,,China
+413,27-187-6127,"Cartwright, Moore and Sipes",Technology,71575571.09,4926,1/10/1910,15542 Sundown Avenue,Śródmieście,,Poland
+414,36-591-4087,Koelpin-Pfeffer,Healthcare,128310603.41,4482,4/10/1936,7 Oriole Way,Fujishiro,,Japan
+415,51-664-8589,O'Connell-Stokes,Technology,405002474.76,726,4/4/1920,0 Old Shore Place,Nantes,B5,France
+416,49-506-4319,Farrell Group,Healthcare,573947774.27,282,6/30/2001,6 Hauk Parkway,Calaoagan,,Philippines
+417,48-558-1776,Weissnat Group,Finance,321614582.7,2576,6/15/1982,0 Garrison Circle,Oktyabr’sk,,Kazakhstan
+418,25-847-5828,Wilderman-Hills,Technology,520135004.1,4073,8/22/1998,31 Talisman Circle,Bardaskan,,Iran
+419,34-842-3775,Dickens-Towne,Retail,553761938.55,720,5/30/2005,858 Reinke Park,Cikayas,,Indonesia
+420,40-835-3147,Weber Inc,Retail,161091187.53,1228,1/1/1955,63544 Grim Court,Albion,,Mauritius
+421,46-333-2923,"Brown, Donnelly and Thompson",Retail,445557412.17,672,5/31/1901,9125 Dexter Road,Mikulovice,,Czech Republic
+422,68-422-5718,Nader and Sons,Healthcare,313569712.52,4886,7/11/1963,70230 Ridgeway Parkway,El Rancho,,Honduras
+423,79-907-7650,"Braun, Dietrich and Hettinger",Finance,548083586.56,4180,12/8/2002,90 Forster Circle,Marfino,,Russia
+424,60-264-7484,Jaskolski-Funk,Technology,265023194.65,4395,10/11/1900,690 Messerschmidt Street,Yihe,,China
+425,34-904-9378,"Pollich, Mertz and Vandervort",Healthcare,658535211.72,1753,10/24/1902,89 Sugar Hill,Kertosari,,Indonesia
+426,87-517-9244,Bogisich Group,Healthcare,427950630.93,3364,7/18/1954,6910 Dottie Pass,Huatajata,,Bolivia
+427,27-156-1216,Hickle Inc,Healthcare,644619993.05,301,9/12/1943,9605 Scoville Crossing,Port Saint Lucie,FL,United States
+428,94-493-6948,Conroy-Herman,Retail,630206831.7,3688,8/18/1997,2965 Lakewood Drive,Svecha,,Russia
+429,12-790-0008,Predovic-Maggio,Retail,933494214.85,1267,1/24/1934,20 Carpenter Parkway,Shipka,,Bulgaria
+430,75-276-4534,Kertzmann Group,Retail,337954133.97,1044,11/3/1943,000 Fuller Drive,Mörrum,K,Sweden
+431,78-434-0376,"Ruecker, Stehr and Jacobs",Technology,490977561.41,3673,8/6/1909,06062 Mandrake Drive,Allen,,Philippines
+432,89-588-2003,"Kassulke, Okuneva and Jenkins",Finance,526701414.18,472,8/31/2015,6470 Oxford Circle,Aghavnadzor,,Armenia
+433,96-562-9839,"Feil, Barrows and Roob",Finance,525406958.84,877,10/18/1901,3338 Eagle Crest Parkway,Buluh Kasap,,Indonesia
+434,17-834-6744,"Swaniawski, Satterfield and Hermiston",Healthcare,178979654.52,2069,12/15/1960,44 Loftsgordon Alley,Geputan,,China
+435,36-902-6201,Reichel-Bruen,Finance,503912820.23,2438,11/6/1943,20179 Kennedy Court,Karolinka,,Czech Republic
+436,20-435-7495,Kris-Breitenberg,Retail,296474513.85,1255,1/6/1922,152 Bultman Alley,Daruoyan,,China
+437,06-093-5817,Kozey and Sons,Technology,399499855.35,792,7/22/1907,2238 Schmedeman Junction,Duobagou,,China
+438,16-651-8960,Herman LLC,Healthcare,980618587.63,568,10/18/2002,1293 Porter Park,Sandaohezi,,China
+439,92-266-2885,Harris LLC,Technology,731373857.64,1094,11/7/1938,5 Algoma Street,Santa Ana,CA,United States
+440,99-508-1454,Ledner LLC,Technology,347785040.65,4848,9/18/1996,18 Lillian Point,Kertosari,,Indonesia
+441,10-594-0960,Krajcik LLC,Technology,579101318.96,3943,11/30/2009,327 Mosinee Drive,Predavac,,Croatia
+442,07-203-1330,Reichel-Gislason,Technology,16311807.36,2104,2/4/2015,712 Talmadge Point,Grojec,,Poland
+443,49-933-7362,Jacobs and Sons,Retail,433700864.37,4390,12/16/2015,018 Mallard Court,Kalbugan,,Philippines
+444,55-964-5956,Dietrich-Kling,Finance,835719295.67,535,10/4/1951,2380 Truax Terrace,Tianchi,,China
+445,70-461-3516,Smitham-Will,Healthcare,724133154.85,307,6/18/1946,0549 Northfield Drive,Leyuan,,China
+446,54-331-1698,"Stracke, Bauch and Treutel",Technology,454382048.58,164,4/7/1996,6 Vidon Court,Pho Duc,,Vietnam
+447,19-947-7150,Mertz LLC,Healthcare,932011735.81,965,2/9/1902,2 Katie Lane,Barroco,13,Portugal
+448,45-660-9053,"Wilderman, Feest and Sporer",Retail,591690949.94,209,10/25/2014,8768 Riverside Alley,Ishimbay,,Russia
+449,55-146-6491,Yost and Sons,Healthcare,317565275.47,4977,7/22/1945,8 Summer Ridge Place,Kyzyl-Oktyabr’skiy,,Russia
+450,59-528-3134,Wiza Inc,Healthcare,22981937.89,3463,9/27/2002,4784 Onsgard Road,Malanville,,Benin
+451,02-523-8673,Kutch-Nikolaus,Healthcare,328461123.49,1575,2/26/1925,64 Sutteridge Parkway,Tamansari,,Indonesia
+452,12-143-0124,"Reichel, Williamson and Kozey",Healthcare,104332566.47,3355,8/12/1937,62 Jana Hill,Lampa,,Peru
+453,55-091-7402,Lebsack Inc,Healthcare,50145438.52,764,11/16/1962,774 Grayhawk Circle,Thaba Nchu,,South Africa
+454,56-073-0819,Johns-Bogan,Finance,791714144.67,1533,7/14/2005,068 Fieldstone Terrace,Janas,11,Portugal
+455,66-928-3375,Cassin-Volkman,Finance,761284960.82,4511,3/1/1974,09 Heffernan Junction,Zongluzui,,China
+456,85-640-2427,"Luettgen, Romaguera and Goyette",Finance,302542636.03,1344,5/25/2014,9210 Nancy Junction,Molina,,Chile
+457,91-545-5851,"Gutkowski, Goyette and Bernhard",Technology,220625336.49,4787,11/20/1970,677 Lyons Road,Quwaysinā,,Egypt
+458,47-248-3747,Torphy-Emmerich,Finance,328203414.58,2515,5/27/1968,12 Washington Crossing,Xiamazhuang,,China
+459,21-004-5520,Reichel-Corkery,Retail,94167635.15,728,8/2/2007,049 Johnson Lane,Batulenger Barat,,Indonesia
+460,49-946-8501,"Hamill, Sporer and Carter",Healthcare,397287650.98,3383,7/1/1936,45 Fieldstone Alley,Prokhorovka,,Russia
+461,34-237-7388,Schumm-Ratke,Technology,652003453.59,1109,10/11/2019,7768 Chinook Pass,Pruszcz Gdański,,Poland
+462,70-220-0031,Spencer LLC,Technology,612177777.42,2711,8/28/1958,660 Brown Junction,Prroshyan,,Armenia
+463,01-525-3497,"Monahan, Kiehn and Dicki",Healthcare,872213239.07,2206,4/19/1994,619 Loomis Junction,Fenggang,,China
+464,26-145-8926,Swift-Mills,Healthcare,191089021.76,2622,5/8/1958,58471 Duke Court,Palos,,Tajikistan
+465,97-087-3976,O'Reilly Group,Healthcare,205120099.71,243,8/13/1902,54 Prairie Rose Way,Kowale,,Poland
+466,30-102-7363,"Yost, Huel and Baumbach",Technology,784060493.79,1253,2/25/1904,19 Chinook Parkway,Karangpaningal,,Indonesia
+467,22-277-8465,Koss-Buckridge,Technology,466086973.59,3143,11/22/1966,189 Maryland Lane,Greensboro,NC,United States
+468,34-628-7467,Quitzon Group,Technology,804581332.56,489,4/2/2017,2576 Scoville Center,Episkopí,,Greece
+469,13-922-3085,"Doyle, Strosin and Harvey",Finance,125692442.24,805,11/14/1916,41618 Miller Point,Emin,,China
+470,07-644-8158,Breitenberg and Sons,Finance,478886993.04,4105,7/20/1910,1 Eliot Plaza,Gandrungmangu,,Indonesia
+471,94-677-7384,"D'Amore, Koelpin and Glover",Retail,531606500.52,1970,7/19/1975,3 Arizona Parkway,Lidköping,O,Sweden
+472,52-496-2019,Lakin Inc,Finance,406476481.41,4591,7/24/1998,246 Ruskin Road,Mangunjaya,,Indonesia
+473,24-032-6977,Upton-Ziemann,Finance,121007408.49,1183,12/27/1997,24 3rd Parkway,Tomelilla,M,Sweden
+474,22-024-5955,Roob and Sons,Finance,549698349.52,4358,2/17/2020,199 Michigan Drive,Cinco Saltos,,Argentina
+475,16-626-2015,"Koelpin, Williamson and Nitzsche",Finance,326058759.12,1689,2/19/2016,67 Rigney Place,Tapes,,Brazil
+476,17-127-7377,Pacocha LLC,Technology,243845826.4,122,12/26/1978,9 Trailsway Park,Sebuku,,Indonesia
+477,57-441-1393,Romaguera LLC,Technology,900020406.05,691,2/24/1967,8 Haas Alley,Gorshechnoye,,Russia
+478,09-491-4058,Jacobson Inc,Retail,129228391.8,1064,5/10/1974,87951 Mallory Street,Changzhi,,China
+479,80-705-6182,"Runte, Sauer and Torp",Finance,129343290.91,3588,8/22/1908,578 Melvin Crossing,Cigoong,,Indonesia
+480,47-030-7060,"Bergnaum, Predovic and Buckridge",Retail,89600181.51,4222,2/4/1968,43 Nelson Road,Tomsk,,Russia
+481,53-416-1338,"Schiller, Adams and Zieme",Healthcare,509033988.24,1942,12/19/1900,3280 Artisan Circle,Pasarkolot,,Indonesia
+482,52-251-6726,Dooley and Sons,Retail,743501105.57,4925,1/7/1998,008 Autumn Leaf Court,Tammela,,Finland
+483,17-894-2557,Rice Inc,Finance,943148723.86,1309,5/18/1999,9 Schurz Circle,Lolak,,Indonesia
+484,59-299-5342,Heidenreich-Corkery,Technology,822593595.27,1719,1/23/1984,00 Cardinal Plaza,Kensington,PE,Canada
+485,97-968-7819,"Roob, Crooks and Pagac",Finance,611059551.71,34,8/12/1918,79708 Raven Crossing,Nanmo,,China
+486,34-713-1378,Bailey-Hodkiewicz,Technology,655301674.74,3098,9/15/1925,45620 Londonderry Junction,Wirodayan,,Indonesia
+487,40-659-7798,Russel LLC,Retail,402006892.62,3904,7/30/1968,74536 Vidon Junction,Jiangchang,,China
+488,33-494-9496,Pacocha Inc,Finance,876942762.51,4278,7/19/1965,4583 Harper Junction,Stockholm,AB,Sweden
+489,39-493-7397,Hahn-Satterfield,Technology,459530101.87,3083,11/1/1928,1 Burning Wood Way,Iporá,,Brazil
+490,82-790-3033,Johns-Turcotte,Healthcare,285087623.14,2378,5/8/2004,6980 Burrows Crossing,Wao,,Philippines
+491,51-411-2638,Nolan-Haley,Healthcare,650698296.85,272,10/2/1949,720 Northland Alley,Pasirpanjang,,Indonesia
+492,01-543-4331,Schneider Inc,Healthcare,327201191.56,4168,4/6/1958,1558 Service Terrace,Listvyanka,,Russia
+493,61-346-4476,Luettgen-Kuhic,Retail,720092814.24,4459,9/1/1930,2 La Follette Pass,Nielisz,,Poland
+494,10-371-7779,Schmeler-Monahan,Retail,356707706.92,1359,5/23/1906,1328 Eastlawn Street,Pilcuyo,,Peru
+495,08-385-7408,Kovacek-Hahn,Technology,243360791.08,4310,6/1/1997,46678 Clove Court,Seixal,15,Portugal
+496,36-115-4094,"Jerde, Casper and Keeling",Retail,630040611.55,1789,5/25/1922,72 American Ash Point,Guihuaquan,,China
+497,02-041-2880,Barton LLC,Finance,627779778.46,3734,7/9/1937,74000 Westridge Street,Liboro,,Philippines
+498,95-398-6806,"Corwin, Gutmann and Mills",Finance,798763696.2,4607,10/12/1925,811 Kensington Avenue,Irapa,,Venezuela
+499,42-932-4443,Erdman Group,Healthcare,457348103.55,4358,10/8/2018,56865 Lunder Center,5 de Mayo,TAM,Mexico
+500,44-196-0133,Kautzer LLC,Retail,226807497.57,3361,2/25/1967,40 Commercial Street,Hołoby,,Ukraine
+501,77-320-7558,Littel-Jerde,Technology,702297345.13,4050,7/1/1957,5 Farmco Trail,Strelitsa,,Russia
+502,89-671-6269,Dicki-Dach,Technology,18569898.44,1619,2/15/1999,142 Graedel Street,Cangkuang,,Indonesia
+503,09-065-8782,Howe Inc,Healthcare,273685660.54,4099,1/5/2005,611 New Castle Pass,Sävedalen,O,Sweden
+504,45-285-6678,Gorczany Group,Technology,39183388.23,493,3/9/1984,478 Riverside Pass,Kuala Lumpur,KUL,Malaysia
+505,42-394-8141,"Will, Kuhic and Renner",Healthcare,909519317.45,1638,10/4/1930,81094 Rockefeller Plaza,Pohrebyshche,,Ukraine
+506,83-952-3865,Goyette-McDermott,Healthcare,478564619.52,3924,8/1/1953,3 Johnson Lane,Stryków,,Poland
+507,69-813-0963,Johnson-Stanton,Finance,354073829.38,4591,10/18/2001,18031 Loomis Hill,Vista Hermosa,VER,Mexico
+508,36-312-1579,Hermiston and Sons,Healthcare,240419405.51,1428,5/6/1986,0280 Northfield Lane,Panikian,,Philippines
+509,74-396-3982,"Weissnat, Rowe and Wyman",Healthcare,7597786.34,2959,3/2/1917,7845 Novick Alley,Trambalan,,Indonesia
+510,60-433-8110,Mayert-Hudson,Retail,854979098.2,4002,3/27/1918,360 Coolidge Park,Báguanos,,Cuba
+511,82-736-2209,Beer-Corwin,Finance,778503598.65,4559,12/9/1998,4 Victoria Court,Pukkila,,Finland
+512,07-811-3798,Lebsack-Schuppe,Technology,912469820.14,2670,5/16/2012,2292 Oneill Way,Tipaz,,Philippines
+513,99-247-6464,Windler LLC,Technology,851633578.28,3372,9/30/1902,2 Hermina Avenue,Jeremoabo,,Brazil
+514,99-472-3758,"Brakus, Zieme and Christiansen",Retail,321539956.35,485,3/26/1970,5865 Darwin Point,Saumur,B5,France
+515,55-779-5020,Homenick and Sons,Healthcare,416708776.72,3580,12/4/1978,31895 Banding Avenue,Gonça,03,Portugal
+516,75-949-5714,Schimmel Group,Technology,626656078.63,3518,4/5/1904,31916 Kensington Center,Fengshan,,China
+517,73-836-6488,Mohr-McDermott,Technology,37647220.43,1161,6/30/1949,6427 Upham Court,Pasirreungit,,Indonesia
+518,58-218-1416,"Schowalter, Dare and Ward",Healthcare,703474009.69,205,2/12/2019,37 Tennyson Road,Molchanovo,,Russia
+519,55-457-6927,Blanda and Sons,Technology,981655042.92,454,5/27/1980,6568 Bay Way,Chang’an,,China
+520,22-477-2410,Oberbrunner-Keebler,Healthcare,848919276.06,2373,8/17/1900,04 Main Hill,Fedorovka,,Kazakhstan
+521,51-978-9855,"Padberg, Vandervort and Kautzer",Finance,252770950.85,2686,3/9/1962,8 Michigan Street,Oslo,03,Norway
+522,88-792-7857,Lang Inc,Technology,223760091.3,670,9/16/1980,45 Warner Hill,Bordeaux,97,France
+523,79-240-0655,"Kulas, Renner and Robel",Retail,107159899.45,1083,1/11/1905,08349 Forster Center,Hanshou,,China
+524,54-611-7312,"Nicolas, Rowe and White",Technology,271366971.16,2220,11/17/1980,2 Marcy Center,Śmiłowo,,Poland
+525,02-974-4486,Parisian Inc,Technology,490779155.39,2583,10/7/1943,72315 Paget Alley,Wuyo,,Nigeria
+526,56-825-4961,"Kutch, Kiehn and Tromp",Retail,128068676.59,4652,3/19/1990,1 Park Meadow Court,Hernández,,Argentina
+527,22-026-6288,"Rice, Klein and Dicki",Retail,355059349.19,119,12/16/2019,80 Harper Parkway,Guadalupe,OAX,Mexico
+528,88-637-2518,Heaney Inc,Technology,20309233.14,3616,3/30/1952,19 Shelley Parkway,Rabat,,Malta
+529,13-648-6111,"Rath, Schamberger and Prosacco",Healthcare,512159510.58,4202,3/10/1993,27025 Ridgeway Junction,Blumenau,,Brazil
+530,52-390-2645,Kozey-Kreiger,Retail,994368285.24,1076,9/7/2013,7636 Brickson Park Junction,Raposos,,Brazil
+531,11-929-4020,Dicki LLC,Retail,597603631.79,1416,7/28/1964,6041 Arizona Point,Limbaan,,Philippines
+532,37-068-2181,Gibson-Nicolas,Healthcare,572729307.05,4038,8/8/1970,0118 Bartelt Pass,Shar’ya,,Russia
+533,27-062-8670,"Walter, Abernathy and Bogan",Finance,988817492.68,2507,3/15/1964,70 Golf View Trail,Nova Iguaçu,,Brazil
+534,70-102-8026,"Hackett, Herman and O'Conner",Healthcare,665682496.94,150,5/4/1971,41 Sutherland Drive,Helin,,China
+535,16-042-7543,"Raynor, Turner and Koss",Finance,661821479.07,2766,6/8/1954,1 Pond Road,Vegreville,AB,Canada
+536,74-453-0401,Jaskolski-Hackett,Healthcare,972175461.35,148,6/7/1927,46847 Knutson Plaza,Bouillon,WAL,Belgium
+537,25-063-5010,"Koss, O'Conner and Daniel",Healthcare,610436236.78,3950,8/12/1989,11 Clarendon Circle,Cicurug,,Indonesia
+538,31-484-7208,"Bradtke, Gorczany and Daugherty",Healthcare,677417674.26,1588,9/5/2008,48 Oneill Crossing,Zoumaling,,China
+539,25-990-1865,Goyette Group,Technology,340380747.14,3129,2/21/1919,98144 Green Ridge Center,Xinzha,,China
+540,19-388-5524,Howe-Romaguera,Healthcare,299641673.25,2377,6/9/1953,07 Swallow Junction,Guararapes,,Brazil
+541,22-534-9606,"VonRueden, Sipes and Armstrong",Retail,205868283.81,379,10/12/2000,50672 Bartelt Street,Warren,OH,United States
+542,83-381-5713,"White, Hermiston and Ryan",Finance,297647243.09,3001,10/24/1946,586 Ryan Lane,Rogóźno,,Poland
+543,59-794-3864,Schroeder-Russel,Technology,934215088.98,3694,12/16/1911,85102 Boyd Terrace,Anqing,,China
+544,90-759-9495,"Stiedemann, Harber and Veum",Technology,526011563.16,2265,10/9/1941,44 Burning Wood Junction,Huntsville,AL,United States
+545,88-560-8406,Dietrich Group,Retail,431072879.14,4989,9/6/1940,6898 Forest Point,Senekal,,South Africa
+546,45-295-6285,Kuhic-Padberg,Healthcare,657273282.1,2177,11/13/1962,65624 Hanson Court,Castrovirreyna,,Peru
+547,65-882-5140,"Schumm, Graham and Emmerich",Finance,227365588.37,3815,10/23/1944,90537 Elka Parkway,Vabalninkas,,Lithuania
+548,43-186-6092,"Lakin, Satterfield and Doyle",Finance,598240041.45,4403,9/22/1909,64798 Columbus Plaza,Papelón,,Venezuela
+549,47-265-5288,McClure Inc,Technology,734420797.46,20,4/2/2016,52 Burning Wood Point,Barra de São Francisco,,Brazil
+550,34-329-9540,Herman Inc,Healthcare,609252676.66,2834,1/27/1986,1 Melby Circle,Villa de Soto,,Argentina
+551,77-837-1454,"Dach, Rippin and Dibbert",Finance,604101463.73,1511,7/8/1995,65 Lyons Park,Mor Laok,,Indonesia
+552,51-165-7864,Volkman-DuBuque,Technology,626691896.07,2053,5/14/1976,29 Granby Road,Same,,East Timor
+553,95-490-1140,"Koch, Durgan and Erdman",Technology,244841163.05,1686,9/1/1984,8 Lukken Point,Tokushima-shi,,Japan
+554,56-488-9470,"Schmitt, Murray and Steuber",Healthcare,774890820.83,1536,12/26/1971,1443 Fair Oaks Hill,Salamá,,Guatemala
+555,68-489-5994,"Howell, Dooley and Wuckert",Finance,515294271.5,1433,10/5/1958,2849 Ohio Terrace,Staropavlovskaya,,Russia
+556,45-620-7644,"Cole, Feeney and Pacocha",Retail,987941154.86,2422,9/21/1970,872 Luster Point,Höllviken,M,Sweden
+557,78-683-9740,Lubowitz-Leuschke,Technology,568223379.74,4494,3/25/1972,32 Hauk Point,Le Perreux-sur-Marne,A8,France
+558,84-248-3774,"Weimann, Hagenes and Koss",Retail,682194110.61,2964,8/26/2018,8 Buhler Hill,Jindayris,,Syria
+559,95-223-0191,Ryan-Fadel,Healthcare,783814193.23,3345,11/9/1922,01 Red Cloud Circle,Weicheng,,China
+560,88-209-6853,Terry-Collier,Finance,491806378.82,3377,3/31/1975,8959 Burrows Hill,George Hill,,Anguilla
+561,75-224-4488,Prohaska-Hintz,Finance,416708510.56,3352,3/31/1984,304 Springs Plaza,Smiths Falls,ON,Canada
+562,96-024-6205,Schmidt-Turner,Retail,961563822.82,3981,4/17/1962,5068 Warrior Point,Stryszawa,,Poland
+563,39-118-6985,Runolfsdottir-Daniel,Retail,420416421.83,908,9/16/1916,822 Bobwhite Circle,Shilin,,China
+564,36-158-4976,Berge-Boehm,Technology,565584287.88,968,1/31/2000,9 Cascade Alley,Zhangxiong,,China
+565,11-627-1339,Streich-Macejkovic,Retail,723183199.4,438,7/12/1929,53 Melvin Point,Vahdat,,Tajikistan
+566,51-317-0170,Williamson-Runte,Finance,177812363.11,179,2/6/1995,1705 Milwaukee Court,Shiraoka,,Japan
+567,84-347-6726,"Friesen, Hermiston and Corwin",Retail,637129363.25,4642,11/28/1941,99 Union Pass,Zaragoza,AR,Spain
+568,60-760-1769,Ratke and Sons,Healthcare,529769965.2,4408,7/25/1937,39618 Almo Drive,Boucinha,03,Portugal
+569,14-556-8379,Orn-Willms,Retail,18150748.36,1659,8/2/1982,84723 Fairview Trail,Longtian,,China
+570,03-590-9433,Pouros and Sons,Technology,302266144.14,660,4/7/1926,924 Marquette Plaza,Krajan Keboromo,,Indonesia
+571,29-579-9184,"Schmeler, Howell and Wunsch",Healthcare,124688289.71,74,10/4/2004,0418 Bayside Plaza,Sŏnbong,,North Korea
+572,94-242-7533,"Braun, Bode and Von",Finance,454714204.4,4077,12/29/1909,98 Briar Crest Plaza,Chuguyevka,,Russia
+573,53-272-7599,Blick LLC,Healthcare,205287897.3,2038,3/24/1921,37348 Algoma Junction,Naekan,,Indonesia
+574,96-688-4465,Grimes Group,Healthcare,903342218.05,4105,9/12/2005,8672 Riverside Parkway,Youngstown,OH,United States
+575,20-652-9876,Stehr-Cremin,Finance,945738347.04,2489,11/14/1913,5 Duke Pass,Pionerskiy,,Russia
+576,88-795-0253,"Waters, Williamson and Bruen",Finance,354815533.13,2680,11/15/1970,8 Northfield Parkway,Stockholm,AB,Sweden
+577,71-209-3022,Greenholt-VonRueden,Healthcare,172365803.32,2181,3/15/2002,76543 Ridgeway Plaza,Taubaté,,Brazil
+578,31-794-7496,Gutkowski Inc,Retail,657189815.1,4283,3/23/1979,52291 Carey Crossing,El Dividive,,Venezuela
+579,34-839-3505,Sawayn Inc,Healthcare,403865508.44,4661,6/20/1931,92487 Algoma Circle,Dalsjöfors,O,Sweden
+580,61-697-2067,Cormier Group,Healthcare,711425434.95,2622,2/26/1953,50959 Hagan Parkway,Springfield,IL,United States
+581,87-682-0657,Crooks and Sons,Retail,468473800.75,3460,1/30/1989,899 Fisk Drive,Eckerö,,Aland Islands
+582,93-162-7308,Pouros and Sons,Finance,952055228.61,1371,9/8/2000,561 Old Shore Lane,Kosmach,,Ukraine
+583,78-265-5487,Gislason-Paucek,Technology,183671257.34,3842,7/28/1948,8 Kim Avenue,Bagumbayan,,Philippines
+584,32-761-2571,"Steuber, Dooley and Jakubowski",Retail,952524002.58,3976,3/11/1961,3 Carioca Parkway,Shuanghe,,China
+585,39-131-9381,"Crona, Hagenes and Emard",Technology,133203611.52,2525,5/23/1971,0457 Northridge Way,Shimabara,,Japan
+586,50-403-1413,Kiehn Inc,Healthcare,353676414.34,4230,4/18/1996,570 Washington Parkway,Balin,,China
+587,01-047-9505,Olson and Sons,Retail,644464292.13,2189,2/2/2020,21 Kennedy Drive,Nantang,,China
+588,73-910-4466,Towne-Fahey,Finance,635167374.01,3540,2/14/1944,3464 Pennsylvania Lane,Nahrīn,,Afghanistan
+589,00-133-1454,Zulauf LLC,Technology,382027173.47,205,1/17/1991,455 Bellgrove Center,Belén,,Paraguay
+590,22-076-0850,Gerlach-Cole,Finance,915122928.2,2605,2/14/2012,65 Melvin Alley,Huohua,,China
+591,14-783-9790,King-Prohaska,Healthcare,693896112.93,2156,7/3/1939,97807 Lake View Court,Fulu,,China
+592,83-466-8373,Kreiger Inc,Healthcare,853126834.46,3794,6/17/1924,94 Northland Terrace,Quanshang,,China
+593,31-346-8394,Welch-Homenick,Technology,60615156.49,1464,9/13/2002,81 Longview Alley,Bato,,Philippines
+594,49-996-5374,MacGyver LLC,Retail,759650450.82,3643,3/9/1996,94 Gulseth Alley,Rio Pardo,,Brazil
+595,49-336-9425,Hills and Sons,Finance,976478560.51,1827,12/3/1948,62 Sachtjen Alley,Puerto Boyacá,,Colombia
+596,79-593-7586,"Ernser, Torphy and Klein",Finance,662269049.68,2223,12/4/2007,64 Karstens Court,Ash Shajarah,,Jordan
+597,72-800-1905,Heidenreich-Kub,Technology,244138941.4,4563,7/28/1995,7591 5th Alley,Tiel,03,Netherlands
+598,15-924-5009,Schuppe-Walter,Healthcare,576298661.44,2820,9/20/1968,17 Daystar Trail,Kotadukuh,,Indonesia
+599,58-185-7098,"Bednar, Mills and MacGyver",Retail,77338262.23,96,8/5/1989,093 Kim Center,Amagi,,Japan
+600,07-045-0768,"Howell, Hagenes and Hamill",Technology,302208125.11,551,4/3/1917,77244 Norway Maple Plaza,Puerto Asís,,Colombia
+601,26-162-9531,"Ortiz, Barton and Dickinson",Technology,332002348.53,1200,4/28/1970,4034 Vahlen Drive,Zhaitou,,China
+602,30-814-3009,Kihn Inc,Technology,140760582.58,2211,8/9/1991,0 Hayes Circle,Petrovskaya,,Russia
+603,49-216-2280,Berge Inc,Technology,632040981.7,3783,11/2/1906,56450 Hintze Alley,Sekongkang Bawah,,Indonesia
+604,58-600-5736,Graham-Carroll,Technology,111812618.72,4921,7/16/1948,14 Pepper Wood Trail,Hejiayan,,China
+605,02-066-0632,"Vandervort, Gislason and Koelpin",Finance,100914230.65,2322,3/30/1990,755 Pierstorff Avenue,Vsevolozhsk,,Russia
+606,70-801-5133,Yundt Group,Finance,78886138.26,1691,9/10/1978,93 David Pass,Panganiban,,Philippines
+607,24-652-9263,"Hickle, Tremblay and Gibson",Finance,169825539.9,2636,10/20/1947,50 Mifflin Circle,Norberg,U,Sweden
+608,17-109-8967,Greenholt LLC,Healthcare,625810224.67,2925,3/13/2011,9099 3rd Road,Leiden,11,Netherlands
+609,19-938-6251,"Trantow, Heaney and Aufderhar",Retail,427063684.44,407,11/23/1997,7374 Hudson Way,Lupane,,Zimbabwe
+610,00-831-0551,Dicki-Bins,Healthcare,311429845.08,645,5/24/1987,0 Logan Drive,Caledon,,South Africa
+611,75-585-4173,O'Conner-Pollich,Retail,919040535.99,2681,12/29/1944,8610 Dryden Trail,Kachar,,Kazakhstan
+612,65-748-8618,"Bartell, Sauer and Wehner",Technology,415385075.03,3458,8/22/2021,50201 Towne Court,Steinkjer,17,Norway
+613,84-907-9971,"Quitzon, Price and Padberg",Technology,519294951.82,3381,8/31/1951,22266 Bonner Lane,Cingambul,,Indonesia
+614,95-758-9952,Wilderman Group,Healthcare,196396554.66,3639,11/6/1951,72049 Clove Hill,Abreu e Lima,,Brazil
+615,89-620-6413,"Aufderhar, Dibbert and Gleason",Technology,598852527.9,3817,9/16/1994,92126 Walton Road,Taohuajiang,,China
+616,76-702-3552,"Schiller, Langosh and Zemlak",Retail,788056071.48,1647,7/5/2002,821 Truax Alley,Kutno,,Poland
+617,83-894-2330,Effertz Group,Healthcare,366635432.92,2106,3/25/1944,8 Quincy Road,Bene 'Ayish,,Israel
+618,28-851-1817,Heller Group,Healthcare,912820056.87,3475,8/3/1925,23647 Kenwood Hill,Iracemápolis,,Brazil
+619,25-435-6665,Walter Inc,Technology,380280388.45,4677,7/23/1980,7 West Point,Likino-Dulevo,,Russia
+620,77-893-7272,Marquardt-Lindgren,Healthcare,262542119.22,1130,4/17/1958,424 Ridgeway Junction,Badovinci,,Serbia
+621,95-516-7715,"Yost, Rodriguez and Lesch",Retail,183622245.6,395,7/13/1953,1 Service Terrace,Zhusha,,China
+622,81-417-7731,Wuckert-Harber,Finance,903721755.69,197,5/14/1937,81 Elgar Trail,Gombong,,Indonesia
+623,75-565-2361,Emmerich Group,Finance,884282566.41,3331,4/25/1932,24 Fallview Court,Megati Kelod,,Indonesia
+624,00-858-5922,Miller-Collier,Healthcare,627543262.1,2136,1/23/1937,6566 Saint Paul Crossing,Pedregal,,Panama
+625,92-462-0936,"Schuppe, Padberg and Hauck",Technology,693907776.85,288,9/16/1937,5 Dwight Plaza,Melita,MB,Canada
+626,17-280-1922,Anderson and Sons,Healthcare,476013737.7,4125,8/18/2004,4138 Pepper Wood Pass,Saint-Maurice,A8,France
+627,53-685-3001,"Blick, Powlowski and Schimmel",Finance,462908723.48,1173,6/23/2019,5 Roxbury Trail,Alcanena,14,Portugal
+628,14-702-9455,Lockman-Koepp,Healthcare,481032323.68,4592,6/22/2017,704 Manitowish Terrace,Itapecerica da Serra,,Brazil
+629,33-466-1135,Kreiger LLC,Finance,462678373.6,4395,11/22/2003,129 Westerfield Parkway,Loei,,Thailand
+630,09-398-9255,"D'Amore, Wilderman and Tillman",Finance,726111144.69,4015,5/30/1942,3 Eliot Avenue,Svoge,,Bulgaria
+631,56-559-8297,Feil-Jakubowski,Finance,195435723.94,3260,10/4/1961,0 Ryan Drive,Sam Khok,,Thailand
+632,96-706-3266,"Howe, Grady and Mohr",Technology,103188382.87,4734,12/20/1917,58521 Bayside Point,Zelenokumsk,,Russia
+633,27-591-5179,"Yost, Johns and Kessler",Technology,807199544.54,3382,10/26/1937,09000 Magdeline Parkway,Novi Kneževac,,Serbia
+634,70-297-0082,Glover-Satterfield,Finance,380865871.67,4939,8/3/1986,319 Monica Circle,Rego,13,Portugal
+635,20-482-6624,Schoen Group,Finance,528344816.35,2024,12/8/1926,8 Pepper Wood Junction,Billère,97,France
+636,04-241-7932,Gorczany-Farrell,Healthcare,771928491.42,1421,9/13/1984,1769 Oneill Terrace,Qingyun,,China
+637,00-127-0318,Morissette and Sons,Healthcare,600770416.93,745,4/18/1955,04777 Golden Leaf Way,Fiorentino,,San Marino
+638,72-183-2662,"Pagac, Baumbach and Green",Technology,702967774.56,2787,2/19/2014,917 Havey Place,Kaltan,,Russia
+639,68-706-0724,"Reilly, Greenfelder and Stamm",Finance,538282006.55,4265,3/31/1922,7 Kipling Trail,Pegongan,,Indonesia
+640,98-561-9828,Bosco-Lockman,Technology,71397449.75,4398,2/9/2021,49885 Portage Court,Aş Şanamayn,,Syria
+641,26-835-4359,Mante Inc,Retail,643749048.0,963,3/10/1980,979 Farwell Street,Torbeck,,Haiti
+642,53-298-8938,Walter-Bruen,Healthcare,298833921.2,468,5/2/2018,8 Ohio Lane,Dampit Satu,,Indonesia
+643,02-850-1827,Nader-Hackett,Finance,653295411.56,789,10/2/1956,68 Truax Hill,Bordeaux,97,France
+644,32-434-8501,Klocko-Schaefer,Retail,243608677.08,3146,7/1/2019,9 Trailsway Plaza,Gucheng,,China
+645,75-477-7802,"Bogan, Heathcote and Heidenreich",Technology,789151361.83,1148,5/3/1967,0281 Harper Hill,Sacapulas,,Guatemala
+646,23-516-6267,"Yundt, Rosenbaum and Rath",Retail,224277005.12,243,11/6/1979,5 Wayridge Terrace,Wamba,,Democratic Republic of the Congo
+647,25-449-0020,Quitzon-Bosco,Finance,945850808.34,219,2/14/1939,0 Buell Junction,Apengjiang,,China
+648,11-206-4990,"Hoeger, MacGyver and Wiegand",Technology,133606864.99,2134,7/17/1939,2870 Pine View Terrace,Ulan Hua,,China
+649,02-463-2009,Rippin LLC,Retail,240362561.06,3045,6/29/1923,8 Chive Place,Sparks,NV,United States
+650,81-132-2640,Doyle Inc,Healthcare,863424388.09,3975,5/14/1949,9763 Nelson Trail,Yurimaguas,,Peru
+651,92-601-2002,"Keebler, Crist and Douglas",Retail,128486499.59,2618,4/16/1981,39 Magdeline Place,Shahr-e Şafā,,Afghanistan
+652,69-937-9352,"Cremin, Brown and Considine",Retail,377039852.16,4887,12/23/1905,090 Crescent Oaks Place,Ducheng,,China
+653,34-267-6436,Ritchie-Hand,Retail,882881134.67,4331,9/2/2002,72 Golden Leaf Avenue,Cúa,,Venezuela
+654,27-680-9561,Wilderman LLC,Finance,163777995.92,775,6/6/2012,78 Eggendart Avenue,Tala,,Philippines
+655,78-070-7244,Adams LLC,Healthcare,986443812.55,2240,1/28/1988,9 Jenna Crossing,Prusice,,Poland
+656,12-851-5849,Turner-Cremin,Finance,913151554.96,3735,11/25/1970,65423 Texas Parkway,Guhua,,China
+657,94-817-6854,Rodriguez-Windler,Finance,423379482.06,463,3/29/2014,101 Lunder Point,Tongouson,,Philippines
+658,35-492-6801,Adams Inc,Healthcare,937316432.89,4176,7/10/2009,4914 Jenifer Center,Pangkalan,,Indonesia
+659,07-426-7464,"Schaden, Wintheiser and Wolff",Finance,629618602.92,2089,8/18/1993,42819 Banding Road,Wang Sai Phun,,Thailand
+660,00-148-9419,Gulgowski and Sons,Technology,885138868.78,2944,5/4/1991,38480 Crest Line Center,Luka nad Jihlavou,,Czech Republic
+661,77-628-3029,"Feeney, Hoppe and Raynor",Retail,206315.0,2608,6/19/1944,74187 Shopko Way,Tanjung,,Indonesia
+662,56-907-2228,Bogan LLC,Healthcare,167978111.65,1190,9/19/1949,52066 Hudson Point,Shanxia,,China
+663,46-264-3833,Weissnat-Stanton,Technology,278763917.1,3455,9/16/1959,4 Riverside Terrace,Toba,,Japan
+664,21-720-4482,"Pfeffer, Mante and Lesch",Finance,311048293.02,4237,2/20/1974,85 Roxbury Junction,Chicheng,,China
+665,14-520-5615,Auer Group,Healthcare,140786393.98,765,7/11/1949,811 Paget Point,Chokwé,,Mozambique
+666,57-514-2185,Bradtke and Sons,Retail,757199137.34,2086,1/29/1901,36637 David Lane,Lumbardhi,,Kosovo
+667,08-277-3567,"Corwin, Lubowitz and Orn",Technology,848018210.43,3983,5/26/1904,10 Shoshone Way,Macas,,Ecuador
+668,09-171-9918,Fahey-Wisoky,Finance,437223816.84,2683,1/31/1946,640 Charing Cross Avenue,Baytīn,,Palestinian Territory
+669,58-828-2804,Johnson and Sons,Healthcare,594561716.03,2356,4/8/1944,327 Thackeray Plaza,Banī Walīd,,Libya
+670,38-968-3274,Rippin-Koch,Healthcare,617108481.95,1873,5/7/1940,83 Russell Place,Mariefred,D,Sweden
+671,79-193-7484,Howe and Sons,Finance,910926579.92,1667,6/27/2008,243 Arrowood Alley,Xiashan,,China
+672,93-106-8593,"Cummerata, D'Amore and Mills",Retail,144290697.43,4973,3/30/1981,388 Division Terrace,Greater Napanee,ON,Canada
+673,44-186-5211,Schoen LLC,Retail,903765740.01,349,11/25/1994,2295 Bartelt Circle,Lazarevskoye,,Russia
+674,32-589-2718,Rolfson-Legros,Finance,458639060.5,1907,4/27/1902,4 Almo Park,Farafenni,,Gambia
+675,69-254-8584,Dooley-Goyette,Retail,172839359.8,2393,6/22/1919,6 Fieldstone Lane,Union,,Philippines
+676,09-332-2033,"Windler, McClure and Bernier",Retail,531642434.93,1277,5/20/1903,175 Schlimgen Road,Montélimar,B9,France
+677,83-318-6691,Romaguera Group,Healthcare,326430043.81,727,2/5/1975,0454 Old Gate Parkway,Lady Grey,,South Africa
+678,56-664-2714,"Nader, Ryan and Hansen",Finance,798443451.88,4917,9/18/1970,21 Glacier Hill Pass,Princeton,BC,Canada
+679,58-475-2716,Hudson and Sons,Healthcare,277684888.86,3666,9/6/2001,6837 East Pass,Pridonskoy,,Russia
+680,15-343-9517,Renner-Schuster,Finance,405579654.91,4988,3/26/1946,615 Prairie Rose Plaza,Dabachang,,China
+681,93-369-2014,"Schoen, Kulas and Wilkinson",Retail,781372161.28,2953,2/25/1909,03415 Rowland Street,Pingba,,China
+682,89-951-2037,Weimann-Haley,Technology,968864853.61,1622,3/25/1977,9285 Dapin Drive,Shuhe,,China
+683,02-758-4333,Kemmer LLC,Finance,169136642.44,3757,11/30/1958,497 Susan Parkway,Mesker-Yurt,,Russia
+684,79-376-3824,"Reynolds, Carter and Lakin",Healthcare,295826713.31,212,8/18/1980,1228 Scott Place,Moinhos,13,Portugal
+685,73-414-8096,Stroman-Pagac,Technology,702230988.8,4469,2/8/1923,8540 Blaine Junction,Patnongon,,Philippines
+686,10-637-9265,"Roob, Rodriguez and Franecki",Healthcare,196720681.11,2598,6/25/1957,166 Marquette Circle,Leigongmiao,,China
+687,67-334-1681,Satterfield-Aufderhar,Healthcare,83625736.45,4014,11/16/2016,9 Service Center,Sibut,,Central African Republic
+688,09-328-3752,"Russel, Dickinson and Hintz",Healthcare,310714305.85,265,3/6/2012,6 Tennyson Circle,Qingshan,,China
+689,16-320-8847,"Rosenbaum, O'Reilly and Farrell",Finance,340157597.5,4453,11/27/1924,6851 Cherokee Drive,La Estancia,,Honduras
+690,29-447-8029,"Thiel, Yundt and Moen",Technology,810395117.53,4952,12/19/1948,904 Pine View Way,Tarfaya,,Morocco
+691,73-773-9470,"Pacocha, Predovic and Schumm",Technology,891620202.58,3033,2/22/1923,54 Scofield Plaza,Tomas,,Peru
+692,19-912-1333,Howe-Lueilwitz,Healthcare,215755826.86,1353,4/12/2021,250 Fieldstone Plaza,Butembo,,Democratic Republic of the Congo
+693,57-874-9498,"Gulgowski, Dooley and Rosenbaum",Finance,170954656.72,4710,4/6/1948,936 Jackson Trail,São Pedro,11,Portugal
+694,60-913-6964,"Kerluke, Murray and Cruickshank",Finance,744660962.71,3827,11/14/1962,48319 Dryden Avenue,Notre Dame,,Mauritius
+695,80-411-5890,"Pouros, Ortiz and Ondricka",Finance,186007807.57,445,8/28/1938,9 Reindahl Road,Uchiza,,Peru
+696,33-274-4989,Johns-Smith,Retail,671757632.81,4617,11/1/1970,86272 Kim Pass,Tuwa,,Indonesia
+697,60-208-7003,Ankunding LLC,Finance,666137645.71,4548,1/25/1986,4 Express Alley,Vila Franca das Naves,09,Portugal
+698,41-844-6139,Hammes-Jacobson,Finance,39916653.32,3024,1/30/1987,0 Rockefeller Road,Hrodna,,Belarus
+699,14-861-8569,Larkin LLC,Finance,992766160.04,1255,12/28/1955,12821 Karstens Plaza,Omemee,ON,Canada
+700,95-536-0047,Reichert-Herman,Retail,767690706.12,275,3/16/1990,4 Moland Drive,Carpina,,Brazil
+701,28-184-5213,"Hansen, Cartwright and Lindgren",Finance,693177887.24,151,9/9/1931,663 Anniversary Road,Tilik,,Philippines
+702,90-561-1090,Price Inc,Retail,109258755.32,2123,9/30/2013,49 Longview Alley,Patrída,,Greece
+703,63-039-4047,"Emard, Cassin and Wilkinson",Healthcare,805973397.72,257,4/1/2017,301 Ilene Lane,Sekongkang Bawah,,Indonesia
+704,55-940-3084,Anderson LLC,Retail,445069901.53,1622,8/13/2009,72929 Packers Terrace,Bailai,,China
+705,08-342-6099,DuBuque LLC,Retail,280251313.57,4432,9/20/1902,67 Scott Center,Igrim,,Russia
+706,32-041-7976,"Terry, Mitchell and Beatty",Finance,119718568.83,4227,7/31/1965,580 Hayes Hill,Fagersta,U,Sweden
+707,27-060-9856,Casper Group,Healthcare,977789411.1,4998,10/29/1996,0389 Erie Way,Laizhou,,China
+708,82-917-2834,Boyer and Sons,Technology,488899399.45,1504,11/23/1908,7582 Lotheville Road,Song,,Thailand
+709,94-785-9269,Feeney Group,Technology,296042548.55,1507,10/15/1966,52 Hollow Ridge Crossing,Soldato-Aleksandrovskoye,,Russia
+710,91-935-6977,Lang-Sporer,Retail,264081220.28,2203,9/4/1999,689 Packers Center,San Vicente Centenario,,Honduras
+711,08-305-4209,Konopelski-Gerhold,Technology,977069877.91,2811,4/26/2016,91 Spaight Plaza,Ilām,,Nepal
+712,49-124-1626,McGlynn and Sons,Healthcare,674488016.47,2083,10/19/1966,616 Harper Trail,Golubinci,,Serbia
+713,07-314-6963,"Schuppe, Schaefer and Huel",Healthcare,10677691.49,1,10/8/1960,22 Shoshone Trail,Corbeil-Essonnes,A8,France
+714,94-406-5775,"Rempel, Schiller and McKenzie",Retail,417930950.43,489,11/19/2020,49 Brickson Park Lane,Madala,,Nigeria
+715,66-756-9866,Hintz-Wilkinson,Retail,464536552.89,1043,10/9/1994,69 Mesta Point,Sofádes,,Greece
+716,22-032-4412,"Homenick, Lemke and Connelly",Finance,761030394.3,3359,2/26/1992,06 Bultman Trail,Tianzhuang,,China
+717,19-548-4279,Runolfsdottir-Schroeder,Retail,263419049.08,1809,9/27/1969,76 Nova Court,Santa María del Real,,Honduras
+718,76-814-8781,Zemlak-Pacocha,Healthcare,136469975.19,1929,8/7/1993,81241 Dottie Drive,Uchimaru,,Japan
+719,08-582-9995,Batz and Sons,Technology,143839161.93,1680,1/30/1900,04785 Canary Circle,Chang’an,,China
+720,00-127-0709,Armstrong-Corkery,Retail,581760277.24,841,8/21/1933,1742 Moland Trail,Aemura,,Indonesia
+721,62-503-4402,Green-White,Technology,852512001.48,4548,4/29/1949,478 Fair Oaks Road,Hearst,ON,Canada
+722,93-517-3646,"Moore, Jacobi and Kiehn",Retail,208548333.06,2888,2/24/2007,010 Redwing Street,Kyrenia,,Cyprus
+723,77-928-5442,Schuppe LLC,Finance,289025379.57,2445,5/24/2005,3909 Meadow Valley Point,Sabana Grande,,Venezuela
+724,75-892-2670,Wisozk-Robel,Retail,19321187.98,229,4/6/1979,7 Johnson Point,Canmore,AB,Canada
+725,84-862-4378,Gislason-Kerluke,Retail,435696326.27,1016,10/24/1976,8 Farragut Plaza,Kungsbacka,N,Sweden
+726,93-664-7844,Ward-Purdy,Technology,478475398.34,3004,6/30/2002,80949 Butternut Parkway,Al Hijrah,,Yemen
+727,97-477-3615,"Rice, Fritsch and Robel",Technology,437031438.82,818,12/6/1908,72783 Sutherland Drive,Ţalkhā,,Egypt
+728,13-957-2239,Roob-Mante,Healthcare,311788345.71,3720,3/5/1902,9685 Westport Crossing,Sulūk,,Syria
+729,94-097-7660,"Frami, Reilly and Maggio",Healthcare,250052294.05,3417,2/22/1903,00288 Crescent Oaks Alley,Benger,,Indonesia
+730,97-598-9146,"Murphy, Cormier and Crooks",Technology,60006684.76,4951,10/11/1914,1649 Crescent Oaks Hill,Waco,TX,United States
+731,63-891-7947,Kerluke Inc,Technology,89664575.64,4209,8/17/1994,4411 Annamark Center,Manturovo,,Russia
+732,17-266-3009,Auer Inc,Technology,74328117.41,3023,7/23/1992,1865 Bay Terrace,Kikuchi,,Japan
+733,11-063-0344,Hirthe and Sons,Technology,752965113.3,3120,7/28/1916,28 American Ash Park,Lindavista,COA,Mexico
+734,14-493-0850,Barrows Group,Finance,229868761.99,981,1/26/1927,6 Amoth Lane,Tanggungrejo,,Indonesia
+735,87-946-7410,"Kuhic, Grimes and Rath",Technology,996013352.9,1978,8/24/1979,679 Hintze Place,Mont-Royal,QC,Canada
+736,89-689-4261,Hirthe-Larkin,Finance,868430595.5,3724,4/8/1954,20790 North Terrace,Bojano,,Poland
+737,66-192-7937,Stanton Inc,Finance,842511387.65,3000,12/19/1927,86494 Stuart Crossing,Alejandro Roca,,Argentina
+738,54-770-6836,Rohan LLC,Healthcare,949689784.61,791,3/22/1951,0 Veith Crossing,Miragaia,11,Portugal
+739,38-215-0233,Kihn-Skiles,Finance,523552303.94,3304,4/13/1946,133 Bonner Court,Ukrainka,,Ukraine
+740,52-062-4705,Goodwin LLC,Technology,225092062.68,1372,6/3/1916,66497 Bashford Parkway,Xinfeng,,China
+741,98-537-3095,Walter and Sons,Technology,724323678.87,1050,12/1/1919,175 Scofield Trail,Caen,99,France
+742,21-132-8524,Heller Group,Technology,921883185.28,108,1/2/2014,58328 Lerdahl Center,Roblin,MB,Canada
+743,17-617-5264,Gulgowski-Wilderman,Technology,598898308.22,3542,3/15/1922,9143 Gerald Hill,Astromil,13,Portugal
+744,06-478-1315,Ullrich-Wilkinson,Technology,258567251.72,2342,4/11/1908,283 Elgar Park,Le Havre,A7,France
+745,22-647-4363,Donnelly and Sons,Healthcare,991024365.06,4732,11/20/2011,6230 Paget Center,Míthymna,,Greece
+746,62-168-0872,"Bogisich, Konopelski and Leannon",Finance,524563682.07,1220,10/24/1913,8526 Towne Point,Shamva,,Zimbabwe
+747,22-200-1653,Harber-Nolan,Finance,893795696.64,543,11/20/1977,25 Wayridge Pass,Bambuí,,Brazil
+748,59-400-0983,"Lowe, Mitchell and Sauer",Retail,401220527.39,2808,3/28/1991,84516 Bonner Parkway,Oborniki Śląskie,,Poland
+749,31-917-7945,Thompson Group,Retail,671053988.42,2013,1/27/2020,446 Mcguire Point,Baculin,,Philippines
+750,96-614-6324,"Davis, Hoppe and Reynolds",Technology,323281202.93,2575,2/20/1987,2506 Sauthoff Place,Jilma,,Tunisia
+751,37-908-6599,Leuschke Group,Retail,51001226.79,3860,10/28/1944,6 Pond Alley,General Luna,,Philippines
+752,00-920-7288,Kling and Sons,Finance,921696075.23,3947,1/15/1923,90 Bobwhite Crossing,Angren,,Uzbekistan
+753,20-487-7892,"Franecki, Upton and Brekke",Retail,400228218.19,4421,12/14/1927,6 Redwing Drive,Smach Mean Chey,,Cambodia
+754,07-968-5830,Nienow and Sons,Finance,688265007.59,488,1/31/1961,1 Hanover Road,Ulimonong,,Indonesia
+755,60-755-7147,Marvin Inc,Finance,837690213.08,4953,12/3/1925,03 Montana Parkway,Xiaogang,,China
+756,16-521-6746,Towne Group,Finance,647810684.12,4759,9/13/1995,6 Upham Road,Shabqadar,,Pakistan
+757,90-258-0996,Paucek Inc,Healthcare,660974209.11,4568,12/29/2003,891 Hauk Drive,Zliten,,Libya
+758,78-307-8231,"Hand, Klocko and Berge",Healthcare,830077243.91,4004,1/25/1918,70 Westport Terrace,Jirjā,,Egypt
+759,55-061-8472,Stark-Reinger,Technology,515278331.77,303,2/11/1914,01641 Glendale Pass,Wenchang,,China
+760,76-818-7166,"Feil, Howell and Fisher",Technology,574470438.1,1907,6/18/2000,14255 Pierstorff Point,Limulunga,,Zambia
+761,62-719-0648,Cummerata LLC,Technology,510314128.64,3502,10/28/1914,8 High Crossing Way,Huanggu,,China
+762,59-325-0199,Nolan-Walter,Finance,129854501.46,2729,5/9/1932,7502 4th Crossing,Al Qurayshīyah,,Yemen
+763,81-249-3266,Reinger-Gottlieb,Technology,791383332.29,344,1/10/1998,58418 Park Meadow Plaza,Lāmerd,,Iran
+764,37-576-0629,Sipes Inc,Technology,641236646.2,2860,3/11/2002,5 Prentice Park,Aguas del Padre,,Honduras
+765,57-080-6110,Herman Inc,Finance,301700386.64,3271,5/16/1966,1516 Mayer Street,Bagahanlad,,Philippines
+766,42-904-3646,Heaney-Hilll,Technology,213849625.87,4118,2/22/1981,188 Nelson Street,Cikoneng,,Indonesia
+767,18-038-5746,Olson Group,Finance,180304005.57,2294,9/5/1968,8 Hauk Drive,Santa Marta,,Panama
+768,54-267-3616,"Breitenberg, Collins and Homenick",Finance,398857088.02,1492,10/18/1902,8486 Coleman Circle,Yoiqag,,China
+769,53-793-8997,Hane LLC,Retail,469678273.4,1256,9/14/1976,568 Marquette Circle,Saiki,,Japan
+770,63-589-5616,"Kuvalis, Emard and Balistreri",Technology,374420981.43,4215,2/3/2004,2 Jana Center,Lodan Wetan,,Indonesia
+771,20-990-6816,"Larson, Zulauf and Dibbert",Technology,405823876.3,666,6/21/1976,50 Bultman Drive,Cuiabá,,Brazil
+772,17-921-3080,"Koelpin, Kirlin and O'Connell",Retail,682418834.21,2372,3/11/1966,19 Old Shore Alley,Öldziyt,,Mongolia
+773,61-915-7644,Vandervort-McGlynn,Finance,999460630.04,1577,9/14/1933,36469 Grim Avenue,Donggang,,China
+774,52-016-4741,Hansen LLC,Finance,35823027.87,3330,3/24/1984,08311 Moland Center,Haiyangsuo,,China
+775,89-841-3885,Lindgren-Blanda,Retail,954095707.07,3150,3/10/1902,61192 Prairie Rose Avenue,Zhenxing,,China
+776,85-104-7543,Moore-Ratke,Retail,311941946.34,2466,1/14/1923,7 Arrowood Road,Krajan Craken,,Indonesia
+777,76-795-0308,Wiza-Watsica,Technology,434066139.44,1329,7/25/2003,42 Golden Leaf Circle,Luotaping,,China
+778,58-405-8974,Schuster-Koepp,Healthcare,746423483.25,1598,9/25/2002,98 Jenna Circle,Murmansk,,Russia
+779,05-484-0607,Lind LLC,Technology,647696581.34,139,6/19/1991,9 Kropf Road,Město Libavá,,Czech Republic
+780,74-431-4455,Ondricka-Johnson,Finance,646483439.65,1863,7/29/1979,183 Erie Crossing,Charras,,Argentina
+781,68-413-3131,Macejkovic and Sons,Healthcare,967728320.84,1220,10/11/1995,75 Westend Trail,Thành Phố Bà Rịa,,Vietnam
+782,44-537-8795,"Luettgen, Kessler and Wolff",Retail,931198002.5,1731,10/27/1985,4482 Packers Way,Granja,17,Portugal
+783,93-386-1631,"Kautzer, Bauch and Smith",Healthcare,74445687.95,4912,9/22/1991,65 Lotheville Way,Katsikás,,Greece
+784,15-527-9194,"Baumbach, Dickinson and Kuvalis",Retail,137980862.74,1309,12/5/1901,8 School Circle,Amangarh,,Pakistan
+785,00-120-6718,Luettgen-Kihn,Technology,942955186.72,993,9/27/2007,59858 Ohio Junction,Kafir Qala,,Afghanistan
+786,72-423-4221,Jacobs-Schaden,Finance,826354083.66,50,9/28/2016,47 Anzinger Court,Igreja,31,Portugal
+787,91-483-5706,"Wintheiser, Boyle and Runolfsdottir",Finance,756069093.57,468,7/1/1966,89323 Dovetail Trail,Oemanu,,Indonesia
+788,54-845-5699,Hansen Inc,Finance,899232056.45,4995,11/22/1987,30 Granby Hill,Krajan,,Indonesia
+789,46-434-7166,"Kessler, Christiansen and Bogan",Technology,863572821.5,2187,12/3/1969,08531 Evergreen Way,Novosemeykino,,Russia
+790,35-430-9753,Moore and Sons,Healthcare,729297310.8,4465,3/5/1927,697 Scofield Street,Shar,,Kazakhstan
+791,28-209-7770,O'Conner-Daugherty,Retail,374657509.48,2762,1/20/1935,7 Green Court,Bergen,12,Norway
+792,56-153-9391,Vandervort-Schimmel,Healthcare,14753276.99,3235,11/24/1992,758 Mcbride Junction,Nong Bua,,Thailand
+793,33-601-2649,"Kautzer, Aufderhar and Rath",Retail,650046792.12,183,7/22/1940,7 Ohio Junction,Jinshi,,China
+794,05-722-2385,Erdman and Sons,Healthcare,18859637.99,3289,6/25/2012,510 Golf View Avenue,Wucun,,China
+795,48-506-1913,Hilpert LLC,Technology,766732242.82,2385,12/14/1932,788 Roth Trail,Kuroiso,,Japan
+796,90-063-5365,"O'Reilly, Muller and Hahn",Technology,352713686.38,3317,9/15/1943,27971 Barby Way,Nong Bua Daeng,,Thailand
+797,97-355-2552,"Schinner, Dach and Cartwright",Technology,434739005.76,3194,6/20/1953,97 Brentwood Way,Gobang,,Indonesia
+798,15-596-3730,Ritchie-Schuster,Retail,123677692.58,4487,9/28/1965,62 Morningstar Center,Gizałki,,Poland
+799,25-996-6881,Wolf-Lakin,Healthcare,806936109.53,3874,9/8/1917,128 Becker Road,Obukhiv,,Ukraine
+800,13-630-3518,Harvey-Turcotte,Technology,520968647.0,4133,4/26/1978,0 Columbus Way,Jenamas,,Indonesia
+801,29-317-8455,Sauer-Lakin,Finance,254806561.7,2003,8/7/2004,7 American Terrace,Shushary,,Russia
+802,18-300-1555,Pacocha-Lockman,Retail,618917934.15,2507,1/4/1993,982 Karstens Circle,Nowy Tomyśl,,Poland
+803,89-422-7837,Hudson-Yost,Retail,714702445.41,4561,5/28/1964,50647 Maryland Way,Sedatigede,,Indonesia
+804,80-264-0392,Pfeffer-Stehr,Finance,319710786.84,4642,12/6/1968,05970 Clove Place,Frederiksberg,1084,Denmark
+805,65-715-3400,Gerhold-Kassulke,Technology,528133626.02,2163,1/29/1987,1489 Spenser Plaza,Raojān,,Bangladesh
+806,11-100-5106,"Wiza, Heller and Russel",Retail,421417422.75,994,12/27/1951,84 Tennessee Pass,Igreja,31,Portugal
+807,89-079-3518,"Huels, Huel and Parker",Healthcare,634691198.32,1348,8/30/2013,369 Hermina Drive,Hekou,,China
+808,60-303-8914,Rodriguez-Trantow,Technology,315425627.7,189,1/4/1934,90434 Pepper Wood Junction,Gampang,,Indonesia
+809,00-925-3965,"Herzog, Weimann and Hauck",Healthcare,25292127.33,2282,6/19/1970,9829 Eagan Crossing,Shicong,,China
+810,74-324-2514,Stroman Group,Technology,753519845.32,956,5/6/2012,53928 Algoma Parkway,Bonriki Village,,Kiribati
+811,49-349-5732,Klocko Group,Technology,699721755.39,1830,5/24/1940,37 Sauthoff Center,Velká Bystřice,,Czech Republic
+812,82-839-9114,Gislason and Sons,Finance,594506500.14,1153,10/19/1943,3436 Manufacturers Terrace,Saripin,,Indonesia
+813,77-738-3683,"White, Spencer and Hackett",Technology,872758894.71,1266,11/16/1911,51 Homewood Junction,Konstantynów Łódzki,,Poland
+814,84-110-8521,Zemlak LLC,Retail,953429786.37,3183,5/28/1900,5648 Grasskamp Center,Ruše,,Slovenia
+815,00-969-6434,Wisozk-Hamill,Retail,954503463.25,3894,10/12/1983,82 Basil Alley,Matriz de Camaragibe,,Brazil
+816,27-318-5223,Kreiger LLC,Retail,827229846.3,4270,3/9/1958,80165 Columbus Park,Putrajaya,PJY,Malaysia
+817,09-761-3953,"Heaney, Greenholt and Schimmel",Healthcare,842388330.78,1787,9/20/1952,29661 Westridge Drive,Lào Cai,,Vietnam
+818,64-806-9523,Bradtke-O'Connell,Healthcare,910216729.21,3484,12/29/2002,94 Eliot Avenue,Yelizavetinskaya,,Russia
+819,55-755-8853,Considine LLC,Technology,625417007.2,2502,6/26/2018,7864 Forest Run Drive,Tambo Grande,,Peru
+820,61-328-0683,Walker Inc,Finance,750829138.89,4950,11/11/1904,78 Merrick Way,Bluefields,,Jamaica
+821,16-365-7077,Stamm Inc,Finance,980840149.28,3745,4/24/1975,22708 Gateway Drive,Liuji,,China
+822,16-193-0456,Gottlieb Group,Retail,999022925.03,3409,5/5/1913,6502 Novick Circle,Honglu,,China
+823,23-620-9268,Cartwright-Watsica,Healthcare,554341518.54,2505,6/22/1963,81 Cardinal Circle,Gjoçaj,,Albania
+824,74-515-4462,Renner and Sons,Technology,901584571.44,2526,11/4/1914,2 Drewry Drive,Garupá,,Argentina
+825,32-349-1282,Schaefer-Hauck,Finance,364572477.24,2097,10/29/1970,27208 Waxwing Terrace,Ust-Kamenogorsk,,Kazakhstan
+826,82-862-9445,"McGlynn, Hayes and Wyman",Retail,3249780.73,13,4/5/1911,088 Sheridan Hill,Mpika,,Zambia
+827,63-741-8217,Hagenes Inc,Finance,107985751.27,1945,5/4/1903,9528 Brentwood Parkway,Datar,,Indonesia
+828,49-804-8169,"Cole, Greenfelder and Herman",Retail,61712597.96,770,1/23/1956,627 Graceland Center,Youzai,,China
+829,84-308-6569,McClure-O'Keefe,Finance,347802814.3,360,8/18/1908,2 Granby Park,Taounate,,Morocco
+830,23-974-7554,Labadie Group,Finance,555499878.69,1065,7/6/1938,884 John Wall Park,Ostashkov,,Russia
+831,00-063-9296,"Mueller, Tremblay and Goodwin",Retail,573200533.77,2820,3/29/1928,21929 Dakota Lane,Brusy,,Poland
+832,12-043-4196,Waters Group,Retail,534094654.75,1702,8/3/1953,221 Acker Terrace,Namora,,Peru
+833,96-129-0851,"Jakubowski, King and Bins",Retail,26914538.24,4621,10/8/1940,64 Arkansas Court,Bilohirs’k,,Ukraine
+834,53-237-0577,Altenwerth and Sons,Healthcare,496047002.51,4074,2/28/1908,7 Parkside Junction,Diré,,Mali
+835,70-474-2475,Lubowitz-Feest,Healthcare,593894629.01,3313,7/10/1905,143 Talisman Junction,Naguanagua,,Venezuela
+836,48-367-3718,Bosco-Feil,Retail,10206157.34,556,5/8/1983,82518 Fisk Trail,Novosibirsk,,Russia
+837,36-114-8867,"Schumm, Okuneva and Krajcik",Healthcare,176881643.06,354,5/16/1994,7 Village Green Alley,Sinfra,,Ivory Coast
+838,65-991-9738,"Gutmann, Doyle and Heaney",Finance,829197657.12,3868,6/30/1943,78697 Center Way,Nantes,B5,France
+839,98-168-8564,Hodkiewicz-Miller,Technology,408411599.98,1236,3/12/1903,14796 Gateway Street,Apengjiang,,China
+840,51-036-4192,"Nienow, Luettgen and Jaskolski",Finance,734115336.31,982,3/21/1960,85877 Troy Plaza,Béziers,A9,France
+841,26-556-5996,Borer Inc,Finance,906300292.28,3341,7/3/2010,7905 Jana Trail,Banana Village,,Kiribati
+842,57-970-1830,Berge-Schuster,Finance,837194944.5,3561,9/20/1901,188 Village Lane,Buliok,,Philippines
+843,19-035-5575,"Wehner, Price and Nicolas",Finance,755692475.08,2021,2/22/1916,4 Elmside Center,Jingdang,,China
+844,48-951-7961,"Schmidt, Bayer and Bechtelar",Retail,199699832.25,531,7/9/1969,2 Pierstorff Pass,Zykovo,,Russia
+845,78-160-5841,Hahn LLC,Finance,168837924.65,3965,7/23/1906,87 Atwood Plaza,Berat,,Albania
+846,43-747-9289,Sporer Inc,Retail,454286676.89,3125,3/30/1935,154 Londonderry Trail,San Pedro de Macorís,,Dominican Republic
+847,17-660-3647,Ernser-Kuhn,Finance,505006098.38,1385,10/17/1914,67802 Darwin Terrace,Tomaszów Lubelski,,Poland
+848,19-826-4145,Feil Group,Healthcare,294674031.13,4755,2/24/1912,6 Green Ridge Park,Oslo,03,Norway
+849,38-815-0661,MacGyver LLC,Retail,363816793.8,4318,6/7/1901,43 Fieldstone Street,Komoro,,Japan
+850,20-735-2661,Schmeler-Wiza,Retail,593938680.17,2730,9/8/1966,16 Oxford Street,Aksha,,Russia
+851,25-080-7400,Murray-Wehner,Healthcare,969024926.78,3906,10/7/1954,2720 Loeprich Center,Armanāz,,Syria
+852,25-732-2407,"Leffler, Hettinger and Lakin",Technology,310071955.43,1898,9/3/2010,271 Farragut Plaza,Bobrovka,,Russia
+853,60-639-5761,"Rodriguez, Kiehn and Kutch",Finance,329940716.21,3329,4/20/1917,226 Lillian Parkway,Yaohua,,China
+854,54-211-0706,"Willms, Wisoky and Murazik",Finance,554429637.96,2642,5/14/1977,58350 Bay Road,Bagong Pagasa,,Philippines
+855,24-278-1572,Ullrich-Reilly,Finance,968115368.46,4861,2/6/1922,12468 Ruskin Hill,Río Sereno,,Panama
+856,27-100-6530,Cruickshank-Tillman,Technology,416326534.08,4932,5/21/1905,18 Eagle Crest Plaza,Kampunglistrik,,Indonesia
+857,34-239-9497,Senger and Sons,Retail,680662320.16,845,2/15/1944,49 Erie Way,Arnprior,ON,Canada
+858,61-247-6258,Douglas Group,Healthcare,166810141.84,4189,3/2/1913,4 Bellgrove Street,Barvinkove,,Ukraine
+859,07-305-3247,Weber Group,Finance,378157370.39,3418,4/11/2008,6 Walton Lane,Mandalasari,,Indonesia
+860,51-487-5517,"Ortiz, McKenzie and Waters",Retail,784889408.31,1279,12/26/2015,5 Dixon Trail,Pereleshino,,Russia
+861,41-396-5340,Smith Inc,Technology,186966124.24,4269,2/2/1925,36676 Red Cloud Circle,Mantes-la-Jolie,A8,France
+862,92-303-1813,Armstrong-Durgan,Finance,827492973.1,1263,5/15/1952,40984 Ilene Plaza,Eirado,16,Portugal
+863,24-897-7473,Bashirian Group,Finance,382280.89,2065,11/3/1963,539 Northwestern Way,Padangbatung,,Indonesia
+864,84-645-3690,Durgan-Schinner,Healthcare,805677743.68,4433,1/22/1940,8 Delladonna Terrace,Reconquista,,Argentina
+865,57-833-1086,Dare-Mayer,Technology,741213820.4,1356,6/24/2011,7412 Clove Lane,Osieczany,,Poland
+866,14-527-4193,Gleason Group,Technology,650545982.02,1202,3/13/2009,02 Troy Hill,Joyabaj,,Guatemala
+867,03-472-8566,Anderson Inc,Healthcare,881755945.53,1517,7/10/1949,7 Garrison Crossing,Formiga,,Brazil
+868,56-227-0541,Runolfsson Group,Finance,708295739.0,4528,9/24/1996,953 Green Plaza,Bahía de Caráquez,,Ecuador
+869,31-641-6086,Carter Group,Technology,508491030.08,3560,7/19/1989,23 Elka Avenue,Porto Real,,Brazil
+870,68-739-8071,Borer-Kautzer,Finance,470720009.06,1046,10/7/1919,4474 West Drive,Slobidka,,Ukraine
+871,80-421-5780,Krajcik-Lang,Healthcare,287256534.54,3955,8/18/1929,317 Hooker Drive,Sanjinquan,,China
+872,32-737-7500,Jacobson Group,Technology,301141330.78,4689,8/6/1974,98 Leroy Way,Wilkołaz,,Poland
+873,04-127-2016,"Okuneva, Jacobs and Weissnat",Retail,98443884.35,4923,6/21/2008,06956 Morning Place,Huddinge,AB,Sweden
+874,66-706-2240,Powlowski-Gibson,Finance,593336797.76,1287,6/15/1985,33741 Lien Avenue,Dobryatino,,Russia
+875,53-663-5212,"Rolfson, O'Keefe and Becker",Retail,9062827.47,4978,3/30/1969,6075 3rd Street,Shiziqiao,,China
+876,91-353-4092,"MacGyver, Gerlach and Williamson",Finance,788927634.53,2236,10/21/1975,47 Fisk Terrace,Unidos,,Philippines
+877,93-203-0178,"Wyman, Block and Shanahan",Healthcare,648540251.19,4111,7/7/1990,108 Loomis Hill,Siaya,,Kenya
+878,05-186-3440,"Douglas, Koss and Daugherty",Healthcare,873937866.37,1742,9/12/1903,72309 Continental Parkway,Boxholm,E,Sweden
+879,52-316-9621,Thompson-Braun,Healthcare,963849759.04,3399,10/2/1903,356 Anderson Road,Xiahan,,China
+880,11-090-1943,Stanton-Cartwright,Finance,764751205.07,1998,9/24/1990,78963 Farwell Court,Glinka,,Russia
+881,37-703-2359,Harris-Larkin,Technology,835245859.26,772,5/1/1936,5 Blue Bill Park Way,Yakovlevskoye,,Russia
+882,53-937-0179,"Brekke, Cruickshank and Pacocha",Technology,967409120.23,1964,12/21/1990,59032 Jana Court,Matina,,Costa Rica
+883,81-596-5818,"Waelchi, Wilderman and Cassin",Technology,579095830.33,432,10/11/1998,6 Magdeline Junction,Mīrpur Sakro,,Pakistan
+884,58-884-4843,Zboncak Group,Retail,896009663.84,1730,8/3/1992,05 La Follette Center,Dobrljin,,Bosnia and Herzegovina
+885,18-925-1510,Weimann and Sons,Finance,397480765.1,240,4/29/1942,33 Morning Junction,Pácora,,Colombia
+886,21-631-0077,Kunze-Rath,Retail,649976182.08,3661,6/25/2017,10 Main Crossing,Shenji,,China
+887,01-448-7114,"Rolfson, Crona and Macejkovic",Finance,147128208.85,3138,4/10/1920,3 Arizona Terrace,Guayabetal,,Colombia
+888,41-708-8418,"Klein, Lebsack and Mills",Healthcare,868704437.75,973,12/13/2003,04315 Oxford Parkway,Zhenxing,,China
+889,78-921-0293,"Block, Wisoky and Swift",Healthcare,890392335.35,4913,2/22/2011,128 Sommers Way,Cajacay,,Peru
+890,91-809-4221,"Mraz, Rohan and VonRueden",Retail,689715429.48,3834,6/12/1913,0191 Corry Alley,Tukums,,Latvia
+891,68-917-5947,"Heathcote, Huels and Hudson",Healthcare,85453550.29,3325,2/19/1987,9 Utah Pass,Sadov,,Czech Republic
+892,61-744-2299,Leannon-Murazik,Technology,760433743.84,4410,3/27/1944,28613 Valley Edge Crossing,Zhongdong,,China
+893,47-915-3961,Koss-Green,Retail,346426019.19,421,3/16/1903,9 Reinke Court,Concepción del Uruguay,,Argentina
+894,05-836-4727,"Huels, Turner and Schroeder",Technology,679178496.85,3718,9/16/1972,53183 Vera Place,Mar’ina Roshcha,,Russia
+895,85-577-2816,Wyman Inc,Finance,244944449.47,3728,8/28/1964,3000 Randy Street,Vila de Sal Rei,,Cape Verde
+896,93-910-8817,Lowe-Von,Healthcare,319367928.49,1785,11/18/1916,11 Trailsway Drive,Loum,,Cameroon
+897,68-927-0355,Crooks-Braun,Finance,758304875.2,2320,8/17/1969,2974 Florence Street,Bandeirantes,,Brazil
+898,05-829-3833,Torphy Group,Finance,677915636.83,4192,9/20/1908,21677 Morningstar Hill,Karadaglije,,Bosnia and Herzegovina
+899,06-391-4451,Gibson-Lemke,Finance,406716523.07,4208,4/18/2012,1 Farragut Alley,Bzenec,,Czech Republic
+900,21-497-3781,"Bruen, Prohaska and Wehner",Finance,989766598.82,935,5/6/1961,172 Warrior Drive,Krajan,,Indonesia
+901,64-929-9600,Rempel Group,Retail,455654029.05,3100,4/18/1932,4061 Schlimgen Road,Hantara,,Indonesia
+902,01-207-8921,Rolfson-Rosenbaum,Retail,418138775.21,1438,2/14/1988,42 Miller Hill,Stamáta,,Greece
+903,09-792-3109,Kassulke Group,Retail,468821127.29,2478,2/5/1936,288 Manley Junction,Choca do Mar,01,Portugal
+904,93-115-8182,Schamberger-Abbott,Finance,727719361.41,784,11/17/1929,49024 Oriole Circle,Nizwá,,Oman
+905,60-838-5089,"Conroy, Upton and Hand",Finance,153296741.42,320,4/28/1920,5 Miller Plaza,Capitán Bermúdez,,Argentina
+906,60-462-7541,Schmeler-Connelly,Retail,434139382.25,2063,4/27/1942,1611 Cody Center,Sabanalarga,,Colombia
+907,40-527-9701,Bailey-Daugherty,Healthcare,146141774.35,4547,3/20/1968,6 Dawn Point,Benito Juarez,VER,Mexico
+908,95-922-4921,Hammes LLC,Healthcare,202618680.79,267,11/1/1926,63 Chinook Parkway,Vila Chã,13,Portugal
+909,77-305-9143,Jenkins-Franecki,Retail,38369781.3,4766,12/21/2003,7705 Utah Road,Chico,CA,United States
+910,60-548-8725,Harvey and Sons,Healthcare,182596663.94,454,7/20/1939,1 Washington Avenue,Kortowo,,Poland
+911,31-477-8385,"Gleason, Hickle and Hamill",Technology,864316034.55,1111,8/19/1909,2 Southridge Way,Chakari,,Zimbabwe
+912,56-649-6157,Boyer and Sons,Retail,81124357.36,2563,1/4/1908,60 Gulseth Terrace,Chiţcani,,Moldova
+913,14-470-1772,Powlowski-Carroll,Technology,932087483.71,471,12/10/2018,178 Troy Junction,Pantian,,China
+914,79-816-1236,"Fahey, Romaguera and Mraz",Technology,792176565.94,4883,2/2/1958,8 Toban Plaza,Weishan,,China
+915,02-369-0000,"Osinski, Braun and Will",Finance,974552107.93,3299,8/12/2011,271 Fieldstone Plaza,Igarapava,,Brazil
+916,73-556-9812,Collier Group,Finance,220450321.4,2410,9/4/2002,46 Grover Center,Kitakami,,Japan
+917,76-261-4709,"Funk, Williamson and Mueller",Retail,968050173.38,200,8/4/1978,04 Comanche Junction,Rennes,A2,France
+918,77-754-8047,Lowe Inc,Finance,803609131.77,3104,1/27/2006,855 Welch Street,Ledeunu,,Indonesia
+919,85-654-5178,Botsford-Macejkovic,Healthcare,866001595.58,389,5/22/1913,80 Harper Drive,Puamata,,Indonesia
+920,30-292-8717,Zieme and Sons,Healthcare,991452796.91,817,1/13/1994,91 Derek Circle,Kuala Terengganu,TRG,Malaysia
+921,75-922-5444,Williamson-Gislason,Retail,716453901.63,2654,4/17/1951,2 Vernon Way,Pakemitan,,Indonesia
+922,36-374-7683,Casper-Daniel,Retail,972685450.39,1925,1/2/1945,764 Butternut Terrace,Bayshint,,Mongolia
+923,15-029-6591,"Jenkins, Batz and Dach",Retail,908494868.95,1845,5/8/1923,41642 Linden Road,Paiçandu,,Brazil
+924,99-705-8195,"Brekke, Beatty and Adams",Finance,189938753.11,372,6/15/1944,75106 Amoth Terrace,Kasserine,,Tunisia
+925,03-015-5144,"Jast, Hartmann and Kautzer",Technology,224266133.23,2816,6/13/1974,4 Hovde Place,Bukabu,,Indonesia
+926,09-594-1258,"Jenkins, Schimmel and Mueller",Technology,751873151.92,4322,1/7/1961,073 Bultman Street,Katsina,,Nigeria
+927,30-504-4581,Bergstrom-Murphy,Healthcare,241900862.11,4750,3/7/1962,89411 Havey Hill,Lingquan,,China
+928,50-106-2180,Harris-Macejkovic,Technology,521748179.14,1827,9/3/1989,86 Steensland Avenue,Burnham,,New Zealand
+929,31-541-8396,Volkman Group,Technology,829916536.05,2507,8/31/1962,74 Ridge Oak Park,Cibeusi,,Indonesia
+930,01-863-6271,Bahringer-Weissnat,Finance,463301292.14,892,9/2/1964,98495 Vermont Road,Taiyu,,China
+931,23-174-1152,"Goodwin, Jacobson and Pouros",Finance,542222077.69,849,10/28/1928,0 Golf Plaza,Nishiwaki,,Japan
+932,10-188-8710,"Howe, Bernhard and Braun",Finance,315005633.02,331,6/26/1957,92 Monterey Alley,Chaykovskaya,,Russia
+933,67-570-3187,Feeney Group,Technology,669653312.21,3987,9/3/2015,46 Springview Trail,Boconó,,Venezuela
+934,44-254-9141,Nicolas-Lebsack,Finance,664490585.04,2509,5/15/1927,17481 Pine View Terrace,Manquiring,,Philippines
+935,02-627-4428,Reinger Group,Technology,377137003.47,1667,8/3/1918,06476 1st Junction,Bridel,,Luxembourg
+936,28-937-9816,"Davis, Lowe and King",Retail,759624876.26,2170,9/17/1952,845 Forster Way,Bistrinci,,Croatia
+937,47-414-1261,Littel Inc,Retail,49261314.52,546,9/27/1901,6 Westend Court,Sumberrejo,,Indonesia
+938,70-735-7165,Sporer-Crist,Healthcare,604529475.37,2085,10/27/1979,9026 La Follette Place,Banaybanay,,Philippines
+939,82-637-4241,Buckridge-Mraz,Healthcare,473376051.55,119,10/11/2007,3026 Stephen Pass,Kashar,,Albania
+940,08-799-8275,Morissette-Hartmann,Technology,246053461.46,4828,11/5/1969,41 Gateway Circle,Losino-Petrovskiy,,Russia
+941,12-963-0559,Bosco-Walker,Retail,232113321.44,1737,2/15/2016,5626 Susan Crossing,San Fernando,,Philippines
+942,71-617-8217,Zboncak-Bahringer,Technology,107834756.85,657,11/15/1949,035 Waxwing Circle,Moss,01,Norway
+943,12-878-6710,"Koelpin, Bauch and Schaefer",Retail,127125105.56,3090,10/20/2012,5 Ridgeview Junction,Martingança,10,Portugal
+944,61-813-1920,Skiles-Kunze,Finance,782505916.61,189,7/12/1944,02039 Sullivan Trail,Chaykovskaya,,Russia
+945,54-608-7714,"Cummings, Beier and Effertz",Technology,377362871.45,1075,3/21/2010,94 Evergreen Way,Xifangcheng,,China
+946,13-895-0778,Graham-Franecki,Healthcare,695209798.0,4989,6/24/1993,73440 Sachtjen Trail,Khenifra,,Morocco
+947,35-890-5159,"Legros, Bednar and Bradtke",Finance,758933011.76,4216,11/8/1947,2418 Drewry Center,Stare Miasto,,Poland
+948,23-500-0564,Sawayn-Deckow,Finance,620281278.24,1347,8/21/1953,82 Warbler Drive,Centre de Flacq,,Mauritius
+949,06-313-1989,Brakus Inc,Finance,301372220.07,496,6/21/1921,5942 Warbler Drive,Kuala Lumpur,KUL,Malaysia
+950,27-116-6755,"Witting, Orn and Carroll",Healthcare,830118451.16,696,4/26/1938,48511 Mifflin Circle,Jastrzębia Góra,,Poland
+951,35-160-9678,Mann LLC,Healthcare,287512876.13,4825,3/3/1906,1100 2nd Junction,Piñahan,,Philippines
+952,42-875-8997,Klocko-Collins,Technology,573476719.58,4431,8/3/1917,4057 Messerschmidt Parkway,Chocianów,,Poland
+953,36-511-3853,"Collier, Schinner and Moen",Retail,524406070.92,347,8/26/2008,851 Bluejay Trail,Guangyuan,,China
+954,45-090-4389,Ledner Group,Finance,675411169.1,1863,7/9/2013,4 Monica Drive,Kargasok,,Russia
+955,54-968-1214,Waelchi-Mueller,Retail,221095183.21,3210,12/10/1936,2446 Carpenter Park,Zhusha,,China
+956,28-684-0063,Quitzon LLC,Finance,692054096.99,3040,10/30/1954,16 Lighthouse Bay Avenue,Suvorovskaya,,Russia
+957,88-118-9326,Kuhlman-Schowalter,Healthcare,474976375.25,512,8/30/1949,54 Westridge Court,Chaihu,,China
+958,12-096-4377,Hoppe-Schulist,Technology,275303271.53,2910,10/18/1906,1 Monument Circle,Macaíba,,Brazil
+959,17-415-4799,"Stamm, Nader and Schuster",Retail,869281030.51,4118,4/4/1934,6 Weeping Birch Park,Dusit,,Thailand
+960,46-609-9477,"Daniel, Weissnat and Mitchell",Technology,508190810.39,326,2/17/1976,72 West Court,Sindon,,Philippines
+961,73-883-4139,Feeney Group,Finance,880594410.63,3018,5/2/1997,469 Melrose Avenue,Zhongzuiling,,China
+962,59-388-5169,Waelchi-Schumm,Healthcare,845026874.43,3030,6/23/1917,746 Petterle Drive,Protvino,,Russia
+963,38-032-7967,Abbott-McDermott,Retail,637746400.82,4070,10/16/1978,31895 Rutledge Drive,Shiziqiao,,China
+964,44-295-5230,"Mayert, Kling and Mante",Finance,408327452.84,1839,6/2/1909,83684 Redwing Park,Montongtebolak,,Indonesia
+965,44-484-2690,Raynor Inc,Finance,549486002.37,1024,5/31/1993,4750 High Crossing Avenue,Michałowo,,Poland
+966,39-190-8889,Davis-Kulas,Retail,738603070.77,1695,2/21/1931,8478 Lakeland Center,Lhakangtang,,China
+967,84-055-6826,"Strosin, Ferry and Rolfson",Technology,926009963.54,3072,11/23/1988,363 Claremont Parkway,Wuli,,China
+968,08-744-9217,Hermiston and Sons,Finance,229081255.66,4074,10/1/2014,4605 Dayton Pass,Taiping,,China
+969,99-139-4352,"Aufderhar, Greenfelder and Armstrong",Technology,279807732.06,1927,11/1/1922,6797 Eagan Way,Tulle,B1,France
+970,72-389-6444,Bednar-Rolfson,Finance,491336308.9,2830,7/7/2004,3 Eggendart Parkway,Santa Cruz,,Philippines
+971,75-886-0646,Wehner-Kihn,Technology,298168194.4,2830,11/27/1942,35 Almo Way,Piñahan,,Philippines
+972,50-276-1143,Johnson and Sons,Retail,453256302.93,3375,7/30/1944,05759 Arkansas Park,Thị Trấn Hùng Quốc,,Vietnam
+973,36-619-6939,"Brekke, Durgan and Weimann",Technology,890499463.18,145,1/29/2004,08615 Colorado Place,Rodniki,,Russia
+974,95-346-3495,Spencer and Sons,Healthcare,318041468.52,1403,1/8/1946,83 Crowley Terrace,Kesamben,,Indonesia
+975,96-044-4921,Armstrong Inc,Technology,70184598.55,1876,5/31/2019,26 4th Parkway,Arroyo Naranjo,,Cuba
+976,10-377-9373,Breitenberg-Homenick,Finance,913382789.7,2013,9/15/1978,883 Annamark Street,Magatos,,Philippines
+977,95-947-3766,"Hegmann, Hauck and Leffler",Finance,355420147.28,3873,9/20/1964,1 Sycamore Hill,Okpoga,,Nigeria
+978,25-477-4513,"Hagenes, Jast and Jaskolski",Finance,137836808.35,4754,10/3/1982,90054 Oneill Alley,Liulimiao,,China
+979,00-341-7515,Davis-Kiehn,Finance,844033755.8,4719,8/22/1909,4 Birchwood Point,Zandak,,Russia
+980,36-026-2468,Nolan LLC,Healthcare,716007767.94,2795,11/19/2007,41 Graedel Plaza,Três Corações,,Brazil
+981,80-590-8382,Bauch Group,Retail,262746354.33,4981,5/2/1955,685 Harbort Way,Camalote,,Honduras
+982,09-586-7391,"Gerlach, Hane and Wehner",Retail,669546373.96,3679,10/26/1940,40031 Delladonna Alley,Baoshan,,China
+983,42-722-3561,Ruecker LLC,Healthcare,259721765.02,4729,9/1/1966,43 Park Meadow Parkway,Rotunda,,Philippines
+984,63-407-3253,Becker-Stokes,Retail,362067490.02,1481,1/3/2013,9918 Gina Place,Sabtang,,Philippines
+985,95-742-6017,Yundt Inc,Technology,383649115.69,3904,5/8/1964,25972 Lakewood Gardens Park,Zarzis,,Tunisia
+986,52-963-4315,Emmerich Inc,Healthcare,22367965.58,3746,10/19/1955,293 School Lane,Oslo,03,Norway
+987,70-767-3740,Denesik-Hermiston,Finance,695953615.15,2199,10/21/1969,816 Chive Crossing,Tulung,,Indonesia
+988,58-999-7801,"Stracke, Skiles and Barton",Finance,574204543.02,2557,7/1/1901,0020 Melrose Road,Khorlovo,,Russia
+989,93-126-5524,Conn Inc,Retail,778736377.87,4746,1/3/1939,1 Eagan Hill,Kimhae,,South Korea
+990,79-379-0471,Collins-Schmidt,Healthcare,495186083.1,3703,10/28/1955,77 Hintze Trail,Göteborg,O,Sweden
+991,92-216-6157,Klein and Sons,Healthcare,18066782.89,1894,6/15/1981,003 Melby Trail,Rumenka,,Serbia
+992,51-194-8028,"Stokes, Wiegand and Ernser",Retail,738652546.61,1574,10/21/2008,5 Scofield Center,Juiz de Fora,,Brazil
+993,08-040-8244,Wilderman LLC,Finance,46679379.28,84,10/12/1980,00 Swallow Point,Iúna,,Brazil
+994,02-410-8512,Kemmer LLC,Retail,781473722.68,1965,10/29/1907,064 Sheridan Point,Volgograd,,Russia
+995,30-470-2237,"Larkin, Zemlak and Flatley",Finance,489173647.34,1188,7/16/1900,780 Cascade Lane,Qingshan,,China
+996,62-487-4898,"Cummings, Schamberger and MacGyver",Healthcare,224519664.36,4609,11/15/2003,7174 Barnett Center,Kisumu,,Kenya
+997,35-651-4075,"Wiegand, Ratke and Collins",Technology,375848580.92,4446,1/4/1933,8 New Castle Park,La Playosa,,Argentina
+998,95-442-5045,"Borer, Lakin and Rosenbaum",Retail,71410347.48,1722,6/13/2021,2 Sloan Crossing,Cacocum,,Cuba
+999,48-096-7882,"Bednar, Boyle and Gleichner",Healthcare,184747273.61,682,4/12/1922,194 Tennessee Way,Jielin,,China
+1000,54-104-4036,Miller Inc,Technology,729583810.67,3338,11/10/2009,74751 Memorial Crossing,Tuanjie,,China

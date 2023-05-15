@@ -1,0 +1,11 @@
+maca:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: host.docker.internal
+      user: maca
+      port: 5432
+      dbname: maca
+      schema: public
+      password: maca

@@ -1,0 +1,1 @@
+select * from {{ ref('agg_salesforce_duns_eda') }} where revenue is null

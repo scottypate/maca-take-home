@@ -1,0 +1,43 @@
+version: "3"
+
+services:
+  postgres:
+    image: postgres:14
+    container_name: postgres
+    ports:
+      - 5432:5432
+    environment:
+      PGDATA: /var/lib/postgresql/data/pgdata
+      POSTGRES_USER: maca
+      POSTGRES_PASSWORD: maca
+      POSTGRES_HOST_AUTH_METHOD: trust
+    volumes:
+      - ./data/:/home/data
+      - ./docker/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+  jupyter:
+    image: jupyter
+    build: 
+      context: .
+      dockerfile: ./docker/jupyter/Dockerfile
+    container_name: jupyter
+    ports:
+      - 8888:8888
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
+    volumes:
+      - ./docker/jupyter/notebooks:/home/jovyan/work
+
+  dbt:
+    image: dbt
+    build: 
+      context: .
+      dockerfile: ./docker/dbt/Dockerfile
+    container_name: dbt-run
+    volumes:
+      - ./docker/dbt/:/dbt
+    depends_on:
+      - postgres
+    command: sh -c "dbt run --profiles-dir /dbt/.dbt/ --project-dir /dbt --target dev && dbt test --profiles-dir /dbt/.dbt/ --project-dir /dbt --target dev"
+    

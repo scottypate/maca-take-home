@@ -1,0 +1,1 @@
+select * from salesforce_accounts where account_id is null
