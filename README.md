@@ -1,5 +1,7 @@
 # Maca Take Home Technical Screener
 
+This is the take home technical screener that I recieved for a data engineer(?) position at maca.io. The work in this repo failed so much that I earned a single sentence reply with no feedback whatsoever. Let this repository serve as a warning to anyone who sees it to not waste your time doing take home exercises for companies that don't respect your time. Better yet, let's all just stop doing them.
+
 ## Overview
 
 ![data-flow](./docs/images/data-flow-diagram.png)
